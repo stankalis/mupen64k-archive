@@ -1,0 +1,11 @@
+; dlltool --base-file C:\DOCUME~1\Owner\LOCALS~1\Temp/cca00904.base --output-exp gameshark.exp --dllname gameshark.dll --output-def libgameshark.def --no-export-all-symbols --add-stdcall-alias --exclude-symbol=DllMainCRTStartup@12 --def C:\DOCUME~1\Owner\LOCALS~1\Temp/cca00904.def --output-lib libgameshark.a
+EXPORTS
+	ApplyCheatsOnVI @ 1
+	CloseDLL @ 2
+	DllAbout @ 3
+	DllConfig @ 4
+	DllTest @ 5
+	GetDllInfo @ 6
+	InitiateCheat @ 7
+	RomClosed @ 8
+	RomOpen @ 9

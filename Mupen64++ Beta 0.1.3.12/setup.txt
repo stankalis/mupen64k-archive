@@ -1,0 +1,41 @@
+Welcome to Mupen64++ this file was automatically loaded
+because it is your first time running the program.
+
+Mupen64++ is a MUltiple Platform Emulator for Nintendo64 that has
+been extended from the original code with the purpose in mind to
+keep development up to date.
+
+[INFORMATION]
+
+Mupen64++ comes with a few default plugins, these plugins have
+been carefully selected, and although we could have bundled more
+inside of the package size, agreements, and ease of use helped us
+decide against this.
+
+Please note that for the best experience one should run
+the plugins specified in the comments (if any).
+
+To add plugins in Mupen64++ please follow these steps:
+
+[1] Close Mupen64++
+[2] Open the plugin folder (defualt folder is 'plugin')
+[3] Place files insides of folder
+[4] Reopen Mupen64++
+[5] Goto Settings (Options -> Settings or 'CTRL + S')
+[6] Select the new plugin in the proper category.
+[7] Click Ok
+
+Please note that Jabo's plugins can only be found inside of the
+Project64 (http://pj64-emu.com) package, however it is perfectly
+okay to copy them over into Mupen64. A lot of Jabo's plugins work
+on slower computers, so if you are experiencing a slow down try
+switching plugins.
+
+Before trying to play online or watching a video playback you will
+need to set your ROM Directory, you can set it inside of
+Settings -> Directories (Options -> Settings or 'CTRL + S' then 
+navigate to the Directory tab).
+
+Please visit http://okaycreations.com/mupen64/ for anymore help, or to post a bug report.
+
+[EOF]

@@ -1,0 +1,9 @@
+changed the background color to black (for loading roms and better capture quality)
+fixed error in displaying the GUI (windows)
+new icon
+fixed error where Mupen would uncap FPS when not displaying VI/FPS but still having the limitor checked.
+
+todo:
+fixed goldeneye support for hacked roms
+fixed bug with rom list
+adds kaillera support

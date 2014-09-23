@@ -1,0 +1,1 @@
+[O][K][Enter][H][E][E][Backspace][R][E][Enter][][Alt][Alt][A][Backspace][Shift][Right Shift][/][Enter][Ctrl][Ctrl][Alt][Alt][Num Del][][][S][S][][][][][]

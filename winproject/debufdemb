@@ -1,0 +1,2252 @@
+(Info)	[14:38:00] Debugger Started...
+(Info)	[14:38:00] No command line params specified
+(Info)	[14:38:00] Mupen64 - Nintendo 64 emulator - GUI mode
+(Info)	[14:38:03] Kaillera : Loaded
+(Info)	[14:38:03] Kaillera Library found
+(Info)	[14:38:03] Kaillera version SCCPPE v0.85.2
+(Info)	[14:38:03] Starting Kaillera...
+(Info)	[14:38:11] Kaillera : kailleraGameCallback()
+(Info)	[14:38:11] Kaillera : Starting rom Super Smash Bros. (U) [!]
+(Info)	[14:38:12] we decoded: Ú
+(Info)	[14:38:12] but real info is: Ú
+(Info)	[14:38:12] @ pos: 1
+(Info)	[14:38:12] we decoded: í
+(Info)	[14:38:12] but real info is: í
+(Info)	[14:38:12] @ pos: 2
+(Info)	[14:38:12] we decoded: Ô
+(Info)	[14:38:12] but real info is: Ô
+(Info)	[14:38:12] @ pos: 3
+(Info)	[14:38:12] we decoded: Ú
+(Info)	[14:38:12] but real info is: =
+(Info)	[14:38:12] @ pos: 4
+(Info)	[14:38:12] Desynced at position: 4, recv=Ú
+(Info)	[14:38:12]  but send==
+(Info)	[14:38:12] we decoded: í
+(Info)	[14:38:12] but real info is: /
+(Info)	[14:38:12] @ pos: 5
+(Info)	[14:38:12] Desynced at position: 5, recv=í
+(Info)	[14:38:12]  but send=/
+(Info)	[14:38:12] we decoded: Ô
+(Info)	[14:38:12] but real info is: 
+(Info)	[14:38:12] @ pos: 6
+(Info)	[14:38:12] Desynced at position: 6, recv=Ô
+(Info)	[14:38:12]  but send=
+(Info)	[14:38:12] we decoded: =
+(Info)	[14:38:12] but real info is: A
+(Info)	[14:38:12] @ pos: 7
+(Info)	[14:38:12] Desynced at position: 7, recv==
+(Info)	[14:38:12]  but send=A
+(Info)	[14:38:12] we decoded: í
+(Info)	[14:38:12] but real info is: 
+(Info)	[14:38:12] @ pos: 8
+(Info)	[14:38:12] Desynced at position: 8, recv=í
+(Info)	[14:38:12]  but send=
+(Info)	[14:38:12] we decoded: Ô
+(Info)	[14:38:12] but real info is: Ç
+(Info)	[14:38:12] @ pos: 9
+(Info)	[14:38:12] Desynced at position: 9, recv=Ô
+(Info)	[14:38:12]  but send=Ç
+(Info)	[14:38:12] we decoded: =
+(Info)	[14:38:12] but real info is: ñ
+(Info)	[14:38:12] @ pos: 10
+(Info)	[14:38:12] Desynced at position: 10, recv==
+(Info)	[14:38:12]  but send=ñ
+(Info)	[14:38:12] we decoded: /
+(Info)	[14:38:12] but real info is: ÿ
+(Info)	[14:38:12] @ pos: 11
+(Info)	[14:38:12] Desynced at position: 11, recv=/
+(Info)	[14:38:12]  but send=ÿ
+(Info)	[14:38:12] we decoded: Ô
+(Info)	[14:38:12] but real info is: Ì
+(Info)	[14:38:12] @ pos: 12
+(Info)	[14:38:12] Desynced at position: 12, recv=Ô
+(Info)	[14:38:12]  but send=Ì
+(Info)	[14:38:12] we decoded: =
+(Info)	[14:38:12] but real info is: Í
+(Info)	[14:38:12] @ pos: 13
+(Info)	[14:38:12] Desynced at position: 13, recv==
+(Info)	[14:38:12]  but send=Í
+(Info)	[14:38:12] we decoded: /
+(Info)	[14:38:12] but real info is: Þ
+(Info)	[14:38:12] @ pos: 14
+(Info)	[14:38:12] Desynced at position: 14, recv=/
+(Info)	[14:38:12]  but send=Þ
+(Info)	[14:38:12] we decoded: 
+(Info)	[14:38:12] but real info is: m
+(Info)	[14:38:12] @ pos: 15
+(Info)	[14:38:12] Desynced at position: 15, recv=
+(Info)	[14:38:12]  but send=m
+(Info)	[14:38:12] we decoded: =
+(Info)	[14:38:12] but real info is: .
+(Info)	[14:38:12] @ pos: 16
+(Info)	[14:38:12] Desynced at position: 16, recv==
+(Info)	[14:38:12]  but send=.
+(Info)	[14:38:12] we decoded: /
+(Info)	[14:38:12] but real info is: ‚
+(Info)	[14:38:12] @ pos: 17
+(Info)	[14:38:12] Desynced at position: 17, recv=/
+(Info)	[14:38:12]  but send=‚
+(Info)	[14:38:12] we decoded: 
+(Info)	[14:38:12] but real info is: ·
+(Info)	[14:38:12] @ pos: 18
+(Info)	[14:38:12] Desynced at position: 18, recv=
+(Info)	[14:38:12]  but send=·
+(Info)	[14:38:12] we decoded: A
+(Info)	[14:38:12] but real info is:  
+(Info)	[14:38:12] @ pos: 19
+(Info)	[14:38:12] Desynced at position: 19, recv=A
+(Info)	[14:38:12]  but send= 
+(Info)	[14:38:12] we decoded: /
+(Info)	[14:38:12] but real info is: ó
+(Info)	[14:38:12] @ pos: 20
+(Info)	[14:38:12] Desynced at position: 20, recv=/
+(Info)	[14:38:12]  but send=ó
+(Info)	[14:38:12] we decoded: 
+(Info)	[14:38:12] but real info is: ð
+(Info)	[14:38:12] @ pos: 21
+(Info)	[14:38:12] Desynced at position: 21, recv=
+(Info)	[14:38:12]  but send=ð
+(Info)	[14:38:12] we decoded: A
+(Info)	[14:38:12] but real info is: 
+(Info)	[14:38:12] @ pos: 22
+(Info)	[14:38:12] Desynced at position: 22, recv=A
+(Info)	[14:38:12]  but send=
+(Info)	[14:38:12] we decoded: 
+(Info)	[14:38:12] but real info is: Ô
+(Info)	[14:38:12] @ pos: 23
+(Info)	[14:38:12] Desynced at position: 23, recv=
+(Info)	[14:38:12]  but send=Ô
+(Info)	[14:38:12] we decoded: 
+(Info)	[14:38:13] but real info is: 
+(Info)	[14:38:13] @ pos: 24
+(Info)	[14:38:13] Desynced at position: 24, recv=
+(Info)	[14:38:13]  but send=
+(Info)	[14:38:13] we decoded: A
+(Info)	[14:38:13] but real info is: ½
+(Info)	[14:38:13] @ pos: 25
+(Info)	[14:38:13] Desynced at position: 25, recv=A
+(Info)	[14:38:13]  but send=½
+(Info)	[14:38:13] we decoded: 
+(Info)	[14:38:13] but real info is: ‚
+(Info)	[14:38:13] @ pos: 26
+(Info)	[14:38:13] Desynced at position: 26, recv=
+(Info)	[14:38:13]  but send=‚
+(Info)	[14:38:13] we decoded: Ç
+(Info)	[14:38:13] but real info is: V
+(Info)	[14:38:13] @ pos: 27
+(Info)	[14:38:13] Desynced at position: 27, recv=Ç
+(Info)	[14:38:13]  but send=V
+(Info)	[14:38:13] we decoded: 
+(Info)	[14:38:13] but real info is: ¼
+(Info)	[14:38:13] @ pos: 29
+(Info)	[14:38:13] Desynced at position: 29, recv=
+(Info)	[14:38:13]  but send=¼
+(Info)	[14:38:13] we decoded: Ç
+(Info)	[14:38:13] but real info is: 
+(Info)	[14:38:13] @ pos: 30
+(Info)	[14:38:13] Desynced at position: 30, recv=Ç
+(Info)	[14:38:13]  but send=
+(Info)	[14:38:13] we decoded: ñ
+(Info)	[14:38:13] but real info is: •
+(Info)	[14:38:13] @ pos: 31
+(Info)	[14:38:13] Desynced at position: 31, recv=ñ
+(Info)	[14:38:13]  but send=•
+(Info)	[14:38:13] we decoded: 
+(Info)	[14:38:13] but real info is: V
+(Info)	[14:38:13] @ pos: 32
+(Info)	[14:38:13] Desynced at position: 32, recv=
+(Info)	[14:38:13]  but send=V
+(Info)	[14:38:13] we decoded: Ç
+(Info)	[14:38:13] but real info is: 4
+(Info)	[14:38:13] @ pos: 33
+(Info)	[14:38:13] Desynced at position: 33, recv=Ç
+(Info)	[14:38:13]  but send=4
+(Info)	[14:38:13] we decoded: ñ
+(Info)	[14:38:13] but real info is: "
+(Info)	[14:38:13] @ pos: 34
+(Info)	[14:38:13] Desynced at position: 34, recv=ñ
+(Info)	[14:38:13]  but send="
+(Info)	[14:38:13] we decoded: ÿ
+(Info)	[14:38:13] but real info is: 
+(Info)	[14:38:13] @ pos: 35
+(Info)	[14:38:13] Desynced at position: 35, recv=ÿ
+(Info)	[14:38:13]  but send=
+(Info)	[14:38:13] we decoded: Ç
+(Info)	[14:38:13] but real info is: :
+(Info)	[14:38:13] @ pos: 36
+(Info)	[14:38:13] Desynced at position: 36, recv=Ç
+(Info)	[14:38:13]  but send=:
+(Info)	[14:38:13] we decoded: ñ
+(Info)	[14:38:13] but real info is: µ
+(Info)	[14:38:13] @ pos: 37
+(Info)	[14:38:13] Desynced at position: 37, recv=ñ
+(Info)	[14:38:13]  but send=µ
+(Info)	[14:38:13] we decoded: ÿ
+(Info)	[14:38:13] but real info is: ^
+(Info)	[14:38:13] @ pos: 38
+(Info)	[14:38:13] Desynced at position: 38, recv=ÿ
+(Info)	[14:38:13]  but send=^
+(Info)	[14:38:13] we decoded: Ì
+(Info)	[14:38:13] but real info is: "
+(Info)	[14:38:13] @ pos: 39
+(Info)	[14:38:13] Desynced at position: 39, recv=Ì
+(Info)	[14:38:13]  but send="
+(Info)	[14:38:13] we decoded: ñ
+(Info)	[14:38:13] but real info is: Q
+(Info)	[14:38:13] @ pos: 40
+(Info)	[14:38:13] Desynced at position: 40, recv=ñ
+(Info)	[14:38:13]  but send=Q
+(Info)	[14:38:13] we decoded: ÿ
+(Info)	[14:38:13] but real info is:  
+(Info)	[14:38:13] @ pos: 41
+(Info)	[14:38:13] Desynced at position: 41, recv=ÿ
+(Info)	[14:38:13]  but send= 
+(Info)	[14:38:13] we decoded: Ì
+(Info)	[14:38:13] but real info is: ‘
+(Info)	[14:38:13] @ pos: 42
+(Info)	[14:38:13] Desynced at position: 42, recv=Ì
+(Info)	[14:38:13]  but send=‘
+(Info)	[14:38:13] we decoded: Í
+(Info)	[14:38:13] but real info is: ¨
+(Info)	[14:38:13] @ pos: 43
+(Info)	[14:38:13] Desynced at position: 43, recv=Í
+(Info)	[14:38:13]  but send=¨
+(Info)	[14:38:13] we decoded: ÿ
+(Info)	[14:38:13] but real info is: ¼
+(Info)	[14:38:13] @ pos: 44
+(Info)	[14:38:13] Desynced at position: 44, recv=ÿ
+(Info)	[14:38:13]  but send=¼
+(Info)	[14:38:13] we decoded: Ì
+(Info)	[14:38:13] but real info is: 
+(Info)	[14:38:13] @ pos: 45
+(Info)	[14:38:13] Desynced at position: 45, recv=Ì
+(Info)	[14:38:13]  but send=
+(Info)	[14:38:13] we decoded: Í
+(Info)	[14:38:13] but real info is: o
+(Info)	[14:38:13] @ pos: 46
+(Info)	[14:38:13] Desynced at position: 46, recv=Í
+(Info)	[14:38:13]  but send=o
+(Info)	[14:38:14] we decoded: Þ
+(Info)	[14:38:14] but real info is: @
+(Info)	[14:38:14] @ pos: 47
+(Info)	[14:38:14] Desynced at position: 47, recv=Þ
+(Info)	[14:38:14]  but send=@
+(Info)	[14:38:14] we decoded: Ì
+(Info)	[14:38:14] but real info is: I
+(Info)	[14:38:14] @ pos: 48
+(Info)	[14:38:14] Desynced at position: 48, recv=Ì
+(Info)	[14:38:14]  but send=I
+(Info)	[14:38:14] we decoded: Í
+(Info)	[14:38:14] but real info is: £
+(Info)	[14:38:14] @ pos: 49
+(Info)	[14:38:14] Desynced at position: 49, recv=Í
+(Info)	[14:38:14]  but send=£
+(Info)	[14:38:14] we decoded: Þ
+(Info)	[14:38:14] but real info is: æ
+(Info)	[14:38:14] @ pos: 50
+(Info)	[14:38:14] Desynced at position: 50, recv=Þ
+(Info)	[14:38:14]  but send=æ
+(Info)	[14:38:14] we decoded: m
+(Info)	[14:38:14] but real info is: w
+(Info)	[14:38:14] @ pos: 51
+(Info)	[14:38:14] Desynced at position: 51, recv=m
+(Info)	[14:38:14]  but send=w
+(Info)	[14:38:14] we decoded: Í
+(Info)	[14:38:14] but real info is: ;
+(Info)	[14:38:14] @ pos: 52
+(Info)	[14:38:14] Desynced at position: 52, recv=Í
+(Info)	[14:38:14]  but send=;
+(Info)	[14:38:14] we decoded: Þ
+(Info)	[14:38:14] but real info is: s
+(Info)	[14:38:14] @ pos: 53
+(Info)	[14:38:14] Desynced at position: 53, recv=Þ
+(Info)	[14:38:14]  but send=s
+(Info)	[14:38:14] we decoded: m
+(Info)	[14:38:14] but real info is: »
+(Info)	[14:38:14] @ pos: 54
+(Info)	[14:38:14] Desynced at position: 54, recv=m
+(Info)	[14:38:14]  but send=»
+(Info)	[14:38:14] we decoded: .
+(Info)	[14:38:14] but real info is: {
+(Info)	[14:38:14] @ pos: 55
+(Info)	[14:38:14] Desynced at position: 55, recv=.
+(Info)	[14:38:14]  but send={
+(Info)	[14:38:14] we decoded: Þ
+(Info)	[14:38:14] but real info is: »
+(Info)	[14:38:14] @ pos: 56
+(Info)	[14:38:14] Desynced at position: 56, recv=Þ
+(Info)	[14:38:14]  but send=»
+(Info)	[14:38:14] we decoded: m
+(Info)	[14:38:14] but real info is: K
+(Info)	[14:38:14] @ pos: 57
+(Info)	[14:38:14] Desynced at position: 57, recv=m
+(Info)	[14:38:14]  but send=K
+(Info)	[14:38:14] we decoded: .
+(Info)	[14:38:14] but real info is: B
+(Info)	[14:38:14] @ pos: 58
+(Info)	[14:38:14] Desynced at position: 58, recv=.
+(Info)	[14:38:14]  but send=B
+(Info)	[14:38:14] we decoded: ‚
+(Info)	[14:38:14] but real info is: r
+(Info)	[14:38:14] @ pos: 59
+(Info)	[14:38:14] Desynced at position: 59, recv=‚
+(Info)	[14:38:14]  but send=r
+(Info)	[14:38:14] we decoded: m
+(Info)	[14:38:14] but real info is:  
+(Info)	[14:38:14] @ pos: 60
+(Info)	[14:38:14] Desynced at position: 60, recv=m
+(Info)	[14:38:14]  but send= 
+(Info)	[14:38:14] we decoded: .
+(Info)	[14:38:14] but real info is: ß
+(Info)	[14:38:14] @ pos: 61
+(Info)	[14:38:14] Desynced at position: 61, recv=.
+(Info)	[14:38:14]  but send=ß
+(Info)	[14:38:14] we decoded: ‚
+(Info)	[14:38:14] but real info is: O
+(Info)	[14:38:15] @ pos: 62
+(Info)	[14:38:15] Desynced at position: 62, recv=‚
+(Info)	[14:38:15]  but send=O
+(Info)	[14:38:15] we decoded: ·
+(Info)	[14:38:15] but real info is: n
+(Info)	[14:38:15] @ pos: 63
+(Info)	[14:38:15] Desynced at position: 63, recv=·
+(Info)	[14:38:15]  but send=n
+(Info)	[14:38:15] we decoded: .
+(Info)	[14:38:15] but real info is: v
+(Info)	[14:38:15] @ pos: 64
+(Info)	[14:38:15] Desynced at position: 64, recv=.
+(Info)	[14:38:15]  but send=v
+(Info)	[14:38:15] we decoded: ‚
+(Info)	[14:38:15] but real info is: w
+(Info)	[14:38:15] @ pos: 65
+(Info)	[14:38:15] Desynced at position: 65, recv=‚
+(Info)	[14:38:15]  but send=w
+(Info)	[14:38:15] we decoded: ·
+(Info)	[14:38:15] but real info is: ž
+(Info)	[14:38:15] @ pos: 66
+(Info)	[14:38:15] Desynced at position: 66, recv=·
+(Info)	[14:38:15]  but send=ž
+(Info)	[14:38:15] we decoded:  
+(Info)	[14:38:15] but real info is: þ
+(Info)	[14:38:15] @ pos: 67
+(Info)	[14:38:15] Desynced at position: 67, recv= 
+(Info)	[14:38:15]  but send=þ
+(Info)	[14:38:15] we decoded: ‚
+(Info)	[14:38:15] but real info is: ;
+(Info)	[14:38:15] @ pos: 68
+(Info)	[14:38:15] Desynced at position: 68, recv=‚
+(Info)	[14:38:15]  but send=;
+(Info)	[14:38:15] we decoded: ·
+(Info)	[14:38:15] but real info is: ;
+(Info)	[14:38:15] @ pos: 69
+(Info)	[14:38:15] Desynced at position: 69, recv=·
+(Info)	[14:38:15]  but send=;
+(Info)	[14:38:15] we decoded:  
+(Info)	[14:38:15] but real info is: 3
+(Info)	[14:38:15] @ pos: 70
+(Info)	[14:38:15] Desynced at position: 70, recv= 
+(Info)	[14:38:15]  but send=3
+(Info)	[14:38:15] we decoded: ó
+(Info)	[14:38:15] but real info is: 7
+(Info)	[14:38:15] @ pos: 71
+(Info)	[14:38:15] Desynced at position: 71, recv=ó
+(Info)	[14:38:15]  but send=7
+(Info)	[14:38:15] we decoded: ·
+(Info)	[14:38:15] but real info is: f
+(Info)	[14:38:15] @ pos: 72
+(Info)	[14:38:15] Desynced at position: 72, recv=·
+(Info)	[14:38:15]  but send=f
+(Info)	[14:38:15] we decoded:  
+(Info)	[14:38:15] but real info is: Q
+(Info)	[14:38:15] @ pos: 73
+(Info)	[14:38:15] Desynced at position: 73, recv= 
+(Info)	[14:38:15]  but send=Q
+(Info)	[14:38:15] we decoded: ó
+(Info)	[14:38:15] but real info is: Ï
+(Info)	[14:38:15] @ pos: 74
+(Info)	[14:38:15] Desynced at position: 74, recv=ó
+(Info)	[14:38:15]  but send=Ï
+(Info)	[14:38:15] we decoded: ð
+(Info)	[14:38:15] but real info is: Æ
+(Info)	[14:38:15] @ pos: 75
+(Info)	[14:38:15] Desynced at position: 75, recv=ð
+(Info)	[14:38:15]  but send=Æ
+(Info)	[14:38:15] we decoded:  
+(Info)	[14:38:15] but real info is: |
+(Info)	[14:38:15] @ pos: 76
+(Info)	[14:38:15] Desynced at position: 76, recv= 
+(Info)	[14:38:15]  but send=|
+(Info)	[14:38:15] we decoded: ó
+(Info)	[14:38:15] but real info is: q
+(Info)	[14:38:15] @ pos: 77
+(Info)	[14:38:15] Desynced at position: 77, recv=ó
+(Info)	[14:38:15]  but send=q
+(Info)	[14:38:15] we decoded: ð
+(Info)	[14:38:15] but real info is: ]
+(Info)	[14:38:15] @ pos: 78
+(Info)	[14:38:15] Desynced at position: 78, recv=ð
+(Info)	[14:38:15]  but send=]
+(Info)	[14:38:15] we decoded: 
+(Info)	[14:38:15] but real info is: s
+(Info)	[14:38:15] @ pos: 79
+(Info)	[14:38:15] Desynced at position: 79, recv=
+(Info)	[14:38:15]  but send=s
+(Info)	[14:38:15] we decoded: ó
+(Info)	[14:38:15] but real info is: f
+(Info)	[14:38:15] @ pos: 80
+(Info)	[14:38:15] Desynced at position: 80, recv=ó
+(Info)	[14:38:15]  but send=f
+(Info)	[14:38:15] we decoded: ð
+(Info)	[14:38:15] but real info is: ;
+(Info)	[14:38:15] @ pos: 81
+(Info)	[14:38:15] Desynced at position: 81, recv=ð
+(Info)	[14:38:15]  but send=;
+(Info)	[14:38:15] we decoded: 
+(Info)	[14:38:15] but real info is: z
+(Info)	[14:38:15] @ pos: 82
+(Info)	[14:38:15] Desynced at position: 82, recv=
+(Info)	[14:38:15]  but send=z
+(Info)	[14:38:15] we decoded: Ô
+(Info)	[14:38:15] but real info is: |
+(Info)	[14:38:15] @ pos: 83
+(Info)	[14:38:15] Desynced at position: 83, recv=Ô
+(Info)	[14:38:15]  but send=|
+(Info)	[14:38:15] we decoded: ð
+(Info)	[14:38:15] but real info is: Ò
+(Info)	[14:38:15] @ pos: 84
+(Info)	[14:38:15] Desynced at position: 84, recv=ð
+(Info)	[14:38:15]  but send=Ò
+(Info)	[14:38:15] we decoded: 
+(Info)	[14:38:15] but real info is: ]
+(Info)	[14:38:15] @ pos: 85
+(Info)	[14:38:15] Desynced at position: 85, recv=
+(Info)	[14:38:15]  but send=]
+(Info)	[14:38:15] we decoded: Ô
+(Info)	[14:38:15] but real info is: ?
+(Info)	[14:38:15] @ pos: 86
+(Info)	[14:38:15] Desynced at position: 86, recv=Ô
+(Info)	[14:38:15]  but send=?
+(Info)	[14:38:15] we decoded: 
+(Info)	[14:38:15] but real info is: 
+(Info)	[14:38:15] @ pos: 87
+(Info)	[14:38:15] Desynced at position: 87, recv=
+(Info)	[14:38:15]  but send=
+(Info)	[14:38:15] we decoded: 
+(Info)	[14:38:15] but real info is: º
+(Info)	[14:38:15] @ pos: 88
+(Info)	[14:38:15] Desynced at position: 88, recv=
+(Info)	[14:38:15]  but send=º
+(Info)	[14:38:15] we decoded: Ô
+(Info)	[14:38:15] but real info is: †
+(Info)	[14:38:15] @ pos: 89
+(Info)	[14:38:16] Desynced at position: 89, recv=Ô
+(Info)	[14:38:16]  but send=†
+(Info)	[14:38:16] we decoded: 
+(Info)	[14:38:16] but real info is: Ô
+(Info)	[14:38:16] @ pos: 90
+(Info)	[14:38:16] Desynced at position: 90, recv=
+(Info)	[14:38:16]  but send=Ô
+(Info)	[14:38:16] we decoded: ½
+(Info)	[14:38:16] but real info is: "
+(Info)	[14:38:16] @ pos: 91
+(Info)	[14:38:16] Desynced at position: 91, recv=½
+(Info)	[14:38:16]  but send="
+(Info)	[14:38:16] we decoded: Ô
+(Info)	[14:38:16] but real info is: ”
+(Info)	[14:38:16] @ pos: 92
+(Info)	[14:38:16] Desynced at position: 92, recv=Ô
+(Info)	[14:38:16]  but send=”
+(Info)	[14:38:16] we decoded: 
+(Info)	[14:38:16] but real info is: m
+(Info)	[14:38:16] @ pos: 93
+(Info)	[14:38:16] Desynced at position: 93, recv=
+(Info)	[14:38:16]  but send=m
+(Info)	[14:38:16] we decoded: ½
+(Info)	[14:38:16] but real info is: ã
+(Info)	[14:38:16] @ pos: 94
+(Info)	[14:38:16] Desynced at position: 94, recv=½
+(Info)	[14:38:16]  but send=ã
+(Info)	[14:38:16] we decoded: ‚
+(Info)	[14:38:16] but real info is: “
+(Info)	[14:38:16] @ pos: 95
+(Info)	[14:38:16] Desynced at position: 95, recv=‚
+(Info)	[14:38:16]  but send=“
+(Info)	[14:38:16] we decoded: 
+(Info)	[14:38:16] but real info is: K
+(Info)	[14:38:16] @ pos: 96
+(Info)	[14:38:16] Desynced at position: 96, recv=
+(Info)	[14:38:16]  but send=K
+(Info)	[14:38:16] we decoded: ½
+(Info)	[14:38:16] but real info is: 9
+(Info)	[14:38:16] @ pos: 97
+(Info)	[14:38:16] Desynced at position: 97, recv=½
+(Info)	[14:38:16]  but send=9
+(Info)	[14:38:16] we decoded: ‚
+(Info)	[14:38:16] but real info is: W
+(Info)	[14:38:16] @ pos: 98
+(Info)	[14:38:16] Desynced at position: 98, recv=‚
+(Info)	[14:38:16]  but send=W
+(Info)	[14:38:16] we decoded: V
+(Info)	[14:38:16] but real info is: –
+(Info)	[14:38:16] @ pos: 99
+(Info)	[14:38:16] Desynced at position: 99, recv=V
+(Info)	[14:38:16]  but send=–
+(Info)	[14:38:16] we decoded: ½
+(Info)	[14:38:16] but real info is: »
+(Info)	[14:38:16] @ pos: 100
+(Info)	[14:38:16] Desynced at position: 100, recv=½
+(Info)	[14:38:16]  but send=»
+(Info)	[14:38:16] we decoded: ‚
+(Info)	[14:38:16] but real info is: 
+(Info)	[14:38:16] @ pos: 101
+(Info)	[14:38:16] Desynced at position: 101, recv=‚
+(Info)	[14:38:16]  but send=
+(Info)	[14:38:16] we decoded: V
+(Info)	[14:38:16] but real info is: É
+(Info)	[14:38:16] @ pos: 102
+(Info)	[14:38:16] Desynced at position: 102, recv=V
+(Info)	[14:38:16]  but send=É
+(Info)	[14:38:16] we decoded: A
+(Info)	[14:38:16] but real info is: 
+(Info)	[14:38:16] @ pos: 103
+(Info)	[14:38:16] Desynced at position: 103, recv=A
+(Info)	[14:38:16]  but send=
+(Info)	[14:38:16] we decoded: ‚
+(Info)	[14:38:16] but real info is: ‘
+(Info)	[14:38:16] @ pos: 104
+(Info)	[14:38:16] Desynced at position: 104, recv=‚
+(Info)	[14:38:16]  but send=‘
+(Info)	[14:38:16] we decoded: V
+(Info)	[14:38:16] but real info is: «
+(Info)	[14:38:16] @ pos: 105
+(Info)	[14:38:16] Desynced at position: 105, recv=V
+(Info)	[14:38:16]  but send=«
+(Info)	[14:38:16] we decoded: A
+(Info)	[14:38:16] but real info is: ò
+(Info)	[14:38:16] @ pos: 106
+(Info)	[14:38:16] Desynced at position: 106, recv=A
+(Info)	[14:38:16]  but send=ò
+(Info)	[14:38:16] we decoded: ¼
+(Info)	[14:38:16] but real info is: Ø
+(Info)	[14:38:16] @ pos: 107
+(Info)	[14:38:16] Desynced at position: 107, recv=¼
+(Info)	[14:38:16]  but send=Ø
+(Info)	[14:38:16] we decoded: V
+(Info)	[14:38:16] but real info is: c
+(Info)	[14:38:16] @ pos: 108
+(Info)	[14:38:16] Desynced at position: 108, recv=V
+(Info)	[14:38:16]  but send=c
+(Info)	[14:38:16] we decoded: A
+(Info)	[14:38:16] but real info is: [
+(Info)	[14:38:16] @ pos: 109
+(Info)	[14:38:16] Desynced at position: 109, recv=A
+(Info)	[14:38:16]  but send=[
+(Info)	[14:38:16] we decoded: ¼
+(Info)	[14:38:16] but real info is: —
+(Info)	[14:38:16] @ pos: 110
+(Info)	[14:38:16] Desynced at position: 110, recv=¼
+(Info)	[14:38:16]  but send=—
+(Info)	[14:38:16] we decoded: 
+(Info)	[14:38:16] but real info is: Á
+(Info)	[14:38:16] @ pos: 111
+(Info)	[14:38:16] Desynced at position: 111, recv=
+(Info)	[14:38:16]  but send=Á
+(Info)	[14:38:16] we decoded: A
+(Info)	[14:38:16] but real info is: À
+(Info)	[14:38:16] @ pos: 112
+(Info)	[14:38:16] Desynced at position: 112, recv=A
+(Info)	[14:38:16]  but send=À
+(Info)	[14:38:16] we decoded: ¼
+(Info)	[14:38:16] but real info is: ì
+(Info)	[14:38:16] @ pos: 113
+(Info)	[14:38:16] Desynced at position: 113, recv=¼
+(Info)	[14:38:16]  but send=ì
+(Info)	[14:38:16] we decoded: 
+(Info)	[14:38:16] but real info is: :
+(Info)	[14:38:16] @ pos: 114
+(Info)	[14:38:16] Desynced at position: 114, recv=
+(Info)	[14:38:16]  but send=:
+(Info)	[14:38:16] we decoded: •
+(Info)	[14:38:16] but real info is: 7
+(Info)	[14:38:16] @ pos: 115
+(Info)	[14:38:16] Desynced at position: 115, recv=•
+(Info)	[14:38:16]  but send=7
+(Info)	[14:38:16] we decoded: ¼
+(Info)	[14:38:16] but real info is: ë
+(Info)	[14:38:16] @ pos: 116
+(Info)	[14:38:16] Desynced at position: 116, recv=¼
+(Info)	[14:38:16]  but send=ë
+(Info)	[14:38:16] we decoded: 
+(Info)	[14:38:16] but real info is: +
+(Info)	[14:38:16] @ pos: 117
+(Info)	[14:38:16] Desynced at position: 117, recv=
+(Info)	[14:38:16]  but send=+
+(Info)	[14:38:16] we decoded: •
+(Info)	[14:38:16] but real info is: ?
+(Info)	[14:38:16] @ pos: 118
+(Info)	[14:38:16] Desynced at position: 118, recv=•
+(Info)	[14:38:16]  but send=?
+(Info)	[14:38:16] we decoded: V
+(Info)	[14:38:16] but real info is: o
+(Info)	[14:38:16] @ pos: 119
+(Info)	[14:38:16] Desynced at position: 119, recv=V
+(Info)	[14:38:16]  but send=o
+(Info)	[14:38:16] we decoded: 
+(Info)	[14:38:16] but real info is: ™
+(Info)	[14:38:16] @ pos: 120
+(Info)	[14:38:16] Desynced at position: 120, recv=
+(Info)	[14:38:16]  but send=™
+(Info)	[14:38:16] we decoded: •
+(Info)	[14:38:16] but real info is: å
+(Info)	[14:38:16] @ pos: 121
+(Info)	[14:38:16] Desynced at position: 121, recv=•
+(Info)	[14:38:16]  but send=å
+(Info)	[14:38:16] we decoded: V
+(Info)	[14:38:16] but real info is: ª
+(Info)	[14:38:16] @ pos: 122
+(Info)	[14:38:16] Desynced at position: 122, recv=V
+(Info)	[14:38:16]  but send=ª
+(Info)	[14:38:16] we decoded: 4
+(Info)	[14:38:16] but real info is:  
+(Info)	[14:38:16] @ pos: 123
+(Info)	[14:38:16] Desynced at position: 123, recv=4
+(Info)	[14:38:16]  but send= 
+(Info)	[14:38:16] we decoded: •
+(Info)	[14:38:16] but real info is: Å
+(Info)	[14:38:16] @ pos: 124
+(Info)	[14:38:16] Desynced at position: 124, recv=•
+(Info)	[14:38:16]  but send=Å
+(Info)	[14:38:16] we decoded: V
+(Info)	[14:38:16] but real info is: µ
+(Info)	[14:38:16] @ pos: 125
+(Info)	[14:38:16] Desynced at position: 125, recv=V
+(Info)	[14:38:16]  but send=µ
+(Info)	[14:38:16] we decoded: 4
+(Info)	[14:38:16] but real info is: j
+(Info)	[14:38:16] @ pos: 126
+(Info)	[14:38:16] Desynced at position: 126, recv=4
+(Info)	[14:38:16]  but send=j
+(Info)	[14:38:16] we decoded: "
+(Info)	[14:38:16] but real info is: ™
+(Info)	[14:38:16] @ pos: 127
+(Info)	[14:38:16] Desynced at position: 127, recv="
+(Info)	[14:38:16]  but send=™
+(Info)	[14:38:17] we decoded: V
+(Info)	[14:38:17] but real info is: §
+(Info)	[14:38:17] @ pos: 128
+(Info)	[14:38:17] Desynced at position: 128, recv=V
+(Info)	[14:38:17]  but send=§
+(Info)	[14:38:17] we decoded: 4
+(Info)	[14:38:17] but real info is: 
+(Info)	[14:38:17] @ pos: 129
+(Info)	[14:38:17] Desynced at position: 129, recv=4
+(Info)	[14:38:17]  but send=
+(Info)	[14:38:17] we decoded: "
+(Info)	[14:38:17] but real info is: >
+(Info)	[14:38:17] @ pos: 130
+(Info)	[14:38:17] Desynced at position: 130, recv="
+(Info)	[14:38:17]  but send=>
+(Info)	[14:38:17] we decoded: 
+(Info)	[14:38:17] but real info is: E
+(Info)	[14:38:17] @ pos: 131
+(Info)	[14:38:17] Desynced at position: 131, recv=
+(Info)	[14:38:17]  but send=E
+(Info)	[14:38:17] we decoded: 4
+(Info)	[14:38:17] but real info is: 
+(Info)	[14:38:17] @ pos: 132
+(Info)	[14:38:17] Desynced at position: 132, recv=4
+(Info)	[14:38:17]  but send=
+(Info)	[14:38:17] we decoded: "
+(Info)	[14:38:17] but real info is: Ç
+(Info)	[14:38:17] @ pos: 133
+(Info)	[14:38:17] Desynced at position: 133, recv="
+(Info)	[14:38:17]  but send=Ç
+(Info)	[14:38:17] we decoded: 
+(Info)	[14:38:17] but real info is: ö
+(Info)	[14:38:17] @ pos: 134
+(Info)	[14:38:17] Desynced at position: 134, recv=
+(Info)	[14:38:17]  but send=ö
+(Info)	[14:38:17] we decoded: :
+(Info)	[14:38:17] but real info is: å
+(Info)	[14:38:17] @ pos: 135
+(Info)	[14:38:17] Desynced at position: 135, recv=:
+(Info)	[14:38:17]  but send=å
+(Info)	[14:38:17] we decoded: "
+(Info)	[14:38:17] but real info is: (
+(Info)	[14:38:17] @ pos: 136
+(Info)	[14:38:17] Desynced at position: 136, recv="
+(Info)	[14:38:17]  but send=(
+(Info)	[14:38:17] we decoded: 
+(Info)	[14:38:17] but real info is: ­
+(Info)	[14:38:17] @ pos: 137
+(Info)	[14:38:17] Desynced at position: 137, recv=
+(Info)	[14:38:17]  but send=­
+(Info)	[14:38:17] we decoded: :
+(Info)	[14:38:17] but real info is: 1
+(Info)	[14:38:17] @ pos: 138
+(Info)	[14:38:17] Desynced at position: 138, recv=:
+(Info)	[14:38:17]  but send=1
+(Info)	[14:38:17] we decoded: µ
+(Info)	[14:38:17] but real info is: j
+(Info)	[14:38:17] @ pos: 139
+(Info)	[14:38:17] Desynced at position: 139, recv=µ
+(Info)	[14:38:17]  but send=j
+(Info)	[14:38:17] we decoded: 
+(Info)	[14:38:17] but real info is: ³
+(Info)	[14:38:17] @ pos: 140
+(Info)	[14:38:17] Desynced at position: 140, recv=
+(Info)	[14:38:17]  but send=³
+(Info)	[14:38:17] we decoded: :
+(Info)	[14:38:17] but real info is: 
+(Info)	[14:38:17] @ pos: 141
+(Info)	[14:38:17] Desynced at position: 141, recv=:
+(Info)	[14:38:17]  but send=
+(Info)	[14:38:17] we decoded: µ
+(Info)	[14:38:17] but real info is: 5
+(Info)	[14:38:17] @ pos: 142
+(Info)	[14:38:17] Desynced at position: 142, recv=µ
+(Info)	[14:38:17]  but send=5
+(Info)	[14:38:17] we decoded: ^
+(Info)	[14:38:17] but real info is: <
+(Info)	[14:38:17] @ pos: 143
+(Info)	[14:38:17] Desynced at position: 143, recv=^
+(Info)	[14:38:17]  but send=<
+(Info)	[14:38:17] we decoded: :
+(Info)	[14:38:17] but real info is: T
+(Info)	[14:38:17] @ pos: 144
+(Info)	[14:38:17] Desynced at position: 144, recv=:
+(Info)	[14:38:17]  but send=T
+(Info)	[14:38:17] we decoded: µ
+(Info)	[14:38:17] but real info is: f
+(Info)	[14:38:17] @ pos: 145
+(Info)	[14:38:17] Desynced at position: 145, recv=µ
+(Info)	[14:38:17]  but send=f
+(Info)	[14:38:17] we decoded: ^
+(Info)	[14:38:17] but real info is: A
+(Info)	[14:38:17] @ pos: 146
+(Info)	[14:38:17] Desynced at position: 146, recv=^
+(Info)	[14:38:17]  but send=A
+(Info)	[14:38:17] we decoded: "
+(Info)	[14:38:17] but real info is: 
+(Info)	[14:38:17] @ pos: 147
+(Info)	[14:38:17] Desynced at position: 147, recv="
+(Info)	[14:38:17]  but send=
+(Info)	[14:38:17] we decoded: µ
+(Info)	[14:38:17] but real info is: ”
+(Info)	[14:38:17] @ pos: 148
+(Info)	[14:38:17] Desynced at position: 148, recv=µ
+(Info)	[14:38:17]  but send=”
+(Info)	[14:38:17] we decoded: ^
+(Info)	[14:38:17] but real info is: )
+(Info)	[14:38:17] @ pos: 149
+(Info)	[14:38:17] Desynced at position: 149, recv=^
+(Info)	[14:38:17]  but send=)
+(Info)	[14:38:17] we decoded: "
+(Info)	[14:38:17] but real info is: Ÿ
+(Info)	[14:38:17] @ pos: 150
+(Info)	[14:38:17] Desynced at position: 150, recv="
+(Info)	[14:38:17]  but send=Ÿ
+(Info)	[14:38:17] we decoded: Q
+(Info)	[14:38:17] but real info is: ë
+(Info)	[14:38:17] @ pos: 151
+(Info)	[14:38:17] Desynced at position: 151, recv=Q
+(Info)	[14:38:17]  but send=ë
+(Info)	[14:38:17] we decoded: ^
+(Info)	[14:38:17] but real info is: ý
+(Info)	[14:38:17] @ pos: 152
+(Info)	[14:38:17] Desynced at position: 152, recv=^
+(Info)	[14:38:17]  but send=ý
+(Info)	[14:38:17] we decoded: "
+(Info)	[14:38:17] but real info is: y
+(Info)	[14:38:17] @ pos: 153
+(Info)	[14:38:17] Desynced at position: 153, recv="
+(Info)	[14:38:17]  but send=y
+(Info)	[14:38:17] we decoded: Q
+(Info)	[14:38:17] but real info is: £
+(Info)	[14:38:17] @ pos: 154
+(Info)	[14:38:17] Desynced at position: 154, recv=Q
+(Info)	[14:38:17]  but send=£
+(Info)	[14:38:17] we decoded:  
+(Info)	[14:38:17] but real info is: m
+(Info)	[14:38:17] @ pos: 155
+(Info)	[14:38:17] Desynced at position: 155, recv= 
+(Info)	[14:38:17]  but send=m
+(Info)	[14:38:17] we decoded: "
+(Info)	[14:38:17] but real info is: H
+(Info)	[14:38:17] @ pos: 156
+(Info)	[14:38:17] Desynced at position: 156, recv="
+(Info)	[14:38:17]  but send=H
+(Info)	[14:38:17] we decoded: Q
+(Info)	[14:38:17] but real info is: ©
+(Info)	[14:38:17] @ pos: 157
+(Info)	[14:38:17] Desynced at position: 157, recv=Q
+(Info)	[14:38:17]  but send=©
+(Info)	[14:38:17] we decoded:  
+(Info)	[14:38:17] but real info is: +
+(Info)	[14:38:17] @ pos: 158
+(Info)	[14:38:17] Desynced at position: 158, recv= 
+(Info)	[14:38:17]  but send=+
+(Info)	[14:38:17] we decoded: ‘
+(Info)	[14:38:17] but real info is: †
+(Info)	[14:38:17] @ pos: 159
+(Info)	[14:38:17] Desynced at position: 159, recv=‘
+(Info)	[14:38:17]  but send=†
+(Info)	[14:38:17] we decoded: Q
+(Info)	[14:38:17] but real info is: «
+(Info)	[14:38:17] @ pos: 160
+(Info)	[14:38:17] Desynced at position: 160, recv=Q
+(Info)	[14:38:17]  but send=«
+(Info)	[14:38:17] we decoded:  
+(Info)	[14:38:17] but real info is: •
+(Info)	[14:38:17] @ pos: 161
+(Info)	[14:38:17] Desynced at position: 161, recv= 
+(Info)	[14:38:17]  but send=•
+(Info)	[14:38:17] we decoded: ‘
+(Info)	[14:38:17] but real info is: »
+(Info)	[14:38:17] @ pos: 162
+(Info)	[14:38:17] Desynced at position: 162, recv=‘
+(Info)	[14:38:17]  but send=»
+(Info)	[14:38:17] we decoded: ¨
+(Info)	[14:38:17] but real info is: F
+(Info)	[14:38:17] @ pos: 163
+(Info)	[14:38:17] Desynced at position: 163, recv=¨
+(Info)	[14:38:17]  but send=F
+(Info)	[14:38:17] we decoded:  
+(Info)	[14:38:17] but real info is: ý
+(Info)	[14:38:17] @ pos: 164
+(Info)	[14:38:17] Desynced at position: 164, recv= 
+(Info)	[14:38:18]  but send=ý
+(Info)	[14:38:18] we decoded: ‘
+(Info)	[14:38:18] but real info is: …
+(Info)	[14:38:18] @ pos: 165
+(Info)	[14:38:18] Desynced at position: 165, recv=‘
+(Info)	[14:38:18]  but send=…
+(Info)	[14:38:18] we decoded: ¨
+(Info)	[14:38:18] but real info is:  
+(Info)	[14:38:18] @ pos: 166
+(Info)	[14:38:18] Desynced at position: 166, recv=¨
+(Info)	[14:38:18]  but send= 
+(Info)	[14:38:18] we decoded: ¼
+(Info)	[14:38:18] but real info is: –
+(Info)	[14:38:18] @ pos: 167
+(Info)	[14:38:18] Desynced at position: 167, recv=¼
+(Info)	[14:38:18]  but send=–
+(Info)	[14:38:18] we decoded: ‘
+(Info)	[14:38:18] but real info is: T
+(Info)	[14:38:18] @ pos: 168
+(Info)	[14:38:18] Desynced at position: 168, recv=‘
+(Info)	[14:38:18]  but send=T
+(Info)	[14:38:18] we decoded: ¨
+(Info)	[14:38:18] but real info is: ¹
+(Info)	[14:38:18] @ pos: 169
+(Info)	[14:38:18] Desynced at position: 169, recv=¨
+(Info)	[14:38:18]  but send=¹
+(Info)	[14:38:18] we decoded: ¼
+(Info)	[14:38:18] but real info is: œ
+(Info)	[14:38:18] @ pos: 170
+(Info)	[14:38:18] Desynced at position: 170, recv=¼
+(Info)	[14:38:18]  but send=œ
+(Info)	[14:38:18] we decoded: 
+(Info)	[14:38:18] but real info is: *
+(Info)	[14:38:18] @ pos: 171
+(Info)	[14:38:18] Desynced at position: 171, recv=
+(Info)	[14:38:18]  but send=*
+(Info)	[14:38:18] we decoded: ¨
+(Info)	[14:38:18] but real info is: ú
+(Info)	[14:38:18] @ pos: 172
+(Info)	[14:38:18] Desynced at position: 172, recv=¨
+(Info)	[14:38:18]  but send=ú
+(Info)	[14:38:18] we decoded: ¼
+(Info)	[14:38:18] but real info is: Š
+(Info)	[14:38:18] @ pos: 173
+(Info)	[14:38:18] Desynced at position: 173, recv=¼
+(Info)	[14:38:18]  but send=Š
+(Info)	[14:38:18] we decoded: 
+(Info)	[14:38:18] but real info is: 
+(Info)	[14:38:18] @ pos: 174
+(Info)	[14:38:18] Desynced at position: 174, recv=
+(Info)	[14:38:18]  but send=
+(Info)	[14:38:18] we decoded: o
+(Info)	[14:38:18] but real info is: 
+(Info)	[14:38:18] @ pos: 175
+(Info)	[14:38:18] Desynced at position: 175, recv=o
+(Info)	[14:38:18]  but send=
+(Info)	[14:38:18] we decoded: ¼
+(Info)	[14:38:18] but real info is: ï
+(Info)	[14:38:18] @ pos: 176
+(Info)	[14:38:18] Desynced at position: 176, recv=¼
+(Info)	[14:38:18]  but send=ï
+(Info)	[14:38:18] we decoded: 
+(Info)	[14:38:18] but real info is: o
+(Info)	[14:38:18] @ pos: 177
+(Info)	[14:38:18] Desynced at position: 177, recv=
+(Info)	[14:38:18]  but send=o
+(Info)	[14:38:18] we decoded: o
+(Info)	[14:38:18] but real info is: Ž
+(Info)	[14:38:18] @ pos: 178
+(Info)	[14:38:18] Desynced at position: 178, recv=o
+(Info)	[14:38:18]  but send=Ž
+(Info)	[14:38:18] we decoded: @
+(Info)	[14:38:18] but real info is: §
+(Info)	[14:38:18] @ pos: 179
+(Info)	[14:38:18] Desynced at position: 179, recv=@
+(Info)	[14:38:18]  but send=§
+(Info)	[14:38:18] we decoded: 
+(Info)	[14:38:18] but real info is: 
+(Info)	[14:38:18] @ pos: 180
+(Info)	[14:38:18] Desynced at position: 180, recv=
+(Info)	[14:38:18]  but send=
+(Info)	[14:38:18] we decoded: o
+(Info)	[14:38:18] but real info is: c
+(Info)	[14:38:18] @ pos: 181
+(Info)	[14:38:18] Desynced at position: 181, recv=o
+(Info)	[14:38:18]  but send=c
+(Info)	[14:38:18] we decoded: @
+(Info)	[14:38:18] but real info is: š
+(Info)	[14:38:18] @ pos: 182
+(Info)	[14:38:18] Desynced at position: 182, recv=@
+(Info)	[14:38:18]  but send=š
+(Info)	[14:38:18] we decoded: I
+(Info)	[14:38:18] but real info is: B
+(Info)	[14:38:18] @ pos: 183
+(Info)	[14:38:18] Desynced at position: 183, recv=I
+(Info)	[14:38:18]  but send=B
+(Info)	[14:38:18] we decoded: o
+(Info)	[14:38:18] but real info is: 9
+(Info)	[14:38:18] @ pos: 184
+(Info)	[14:38:18] Desynced at position: 184, recv=o
+(Info)	[14:38:18]  but send=9
+(Info)	[14:38:18] we decoded: @
+(Info)	[14:38:18] but real info is: ï
+(Info)	[14:38:18] @ pos: 185
+(Info)	[14:38:18] Desynced at position: 185, recv=@
+(Info)	[14:38:18]  but send=ï
+(Info)	[14:38:18] we decoded: I
+(Info)	[14:38:18] but real info is: £
+(Info)	[14:38:18] @ pos: 186
+(Info)	[14:38:18] Desynced at position: 186, recv=I
+(Info)	[14:38:18]  but send=£
+(Info)	[14:38:18] we decoded: £
+(Info)	[14:38:19] but real info is: o
+(Info)	[14:38:19] @ pos: 187
+(Info)	[14:38:19] Desynced at position: 187, recv=£
+(Info)	[14:38:19]  but send=o
+(Info)	[14:38:19] we decoded: @
+(Info)	[14:38:19] but real info is: Ï
+(Info)	[14:38:19] @ pos: 188
+(Info)	[14:38:19] Desynced at position: 188, recv=@
+(Info)	[14:38:19]  but send=Ï
+(Info)	[14:38:19] we decoded: I
+(Info)	[14:38:19] but real info is: Ê
+(Info)	[14:38:19] @ pos: 189
+(Info)	[14:38:19] Desynced at position: 189, recv=I
+(Info)	[14:38:19]  but send=Ê
+(Info)	[14:38:19] we decoded: £
+(Info)	[14:38:19] but real info is: U
+(Info)	[14:38:19] @ pos: 190
+(Info)	[14:38:19] Desynced at position: 190, recv=£
+(Info)	[14:38:19]  but send=U
+(Info)	[14:38:19] we decoded: æ
+(Info)	[14:38:19] but real info is: Ý
+(Info)	[14:38:19] @ pos: 191
+(Info)	[14:38:19] Desynced at position: 191, recv=æ
+(Info)	[14:38:19]  but send=Ý
+(Info)	[14:38:19] we decoded: I
+(Info)	[14:38:19] but real info is: Ô
+(Info)	[14:38:19] @ pos: 192
+(Info)	[14:38:19] Desynced at position: 192, recv=I
+(Info)	[14:38:19]  but send=Ô
+(Info)	[14:38:19] we decoded: £
+(Info)	[14:38:19] but real info is:  
+(Info)	[14:38:19] @ pos: 193
+(Info)	[14:38:19] Desynced at position: 193, recv=£
+(Info)	[14:38:19]  but send= 
+(Info)	[14:38:19] we decoded: æ
+(Info)	[14:38:19] but real info is: ¯
+(Info)	[14:38:19] @ pos: 194
+(Info)	[14:38:19] Desynced at position: 194, recv=æ
+(Info)	[14:38:19]  but send=¯
+(Info)	[14:38:19] we decoded: w
+(Info)	[14:38:19] but real info is: 4
+(Info)	[14:38:19] @ pos: 195
+(Info)	[14:38:19] Desynced at position: 195, recv=w
+(Info)	[14:38:19]  but send=4
+(Info)	[14:38:19] we decoded: £
+(Info)	[14:38:19] but real info is: ß
+(Info)	[14:38:19] @ pos: 196
+(Info)	[14:38:19] Desynced at position: 196, recv=£
+(Info)	[14:38:19]  but send=ß
+(Info)	[14:38:19] we decoded: æ
+(Info)	[14:38:19] but real info is: 
+(Info)	[14:38:19] @ pos: 197
+(Info)	[14:38:19] Desynced at position: 197, recv=æ
+(Info)	[14:38:19]  but send=
+(Info)	[14:38:19] we decoded: w
+(Info)	[14:38:19] but real info is: J
+(Info)	[14:38:19] @ pos: 198
+(Info)	[14:38:19] Desynced at position: 198, recv=w
+(Info)	[14:38:19]  but send=J
+(Info)	[14:38:19] we decoded: ;
+(Info)	[14:38:19] but real info is: ú
+(Info)	[14:38:19] @ pos: 199
+(Info)	[14:38:19] Desynced at position: 199, recv=;
+(Info)	[14:38:19]  but send=ú
+(Info)	[14:38:19] we decoded: æ
+(Info)	[14:38:19] but real info is: Ù
+(Info)	[14:38:19] @ pos: 200
+(Info)	[14:38:19] Desynced at position: 200, recv=æ
+(Info)	[14:38:19]  but send=Ù
+(Info)	[14:38:19] we decoded: w
+(Info)	[14:38:19] but real info is: ¬
+(Info)	[14:38:19] @ pos: 201
+(Info)	[14:38:19] Desynced at position: 201, recv=w
+(Info)	[14:38:19]  but send=¬
+(Info)	[14:38:19] we decoded: ;
+(Info)	[14:38:19] but real info is: F
+(Info)	[14:38:19] @ pos: 202
+(Info)	[14:38:19] Desynced at position: 202, recv=;
+(Info)	[14:38:19]  but send=F
+(Info)	[14:38:19] we decoded: s
+(Info)	[14:38:19] but real info is: >
+(Info)	[14:38:19] @ pos: 203
+(Info)	[14:38:19] Desynced at position: 203, recv=s
+(Info)	[14:38:19]  but send=>
+(Info)	[14:38:19] we decoded: w
+(Info)	[14:38:19] but real info is: š
+(Info)	[14:38:19] @ pos: 204
+(Info)	[14:38:19] Desynced at position: 204, recv=w
+(Info)	[14:38:19]  but send=š
+(Info)	[14:38:19] we decoded: ;
+(Info)	[14:38:19] but real info is: m
+(Info)	[14:38:19] @ pos: 205
+(Info)	[14:38:19] Desynced at position: 205, recv=;
+(Info)	[14:38:19]  but send=m
+(Info)	[14:38:19] we decoded: s
+(Info)	[14:38:19] but real info is: _
+(Info)	[14:38:19] @ pos: 206
+(Info)	[14:38:19] Desynced at position: 206, recv=s
+(Info)	[14:38:19]  but send=_
+(Info)	[14:38:19] we decoded: »
+(Info)	[14:38:19] but real info is: Î
+(Info)	[14:38:19] @ pos: 207
+(Info)	[14:38:19] Desynced at position: 207, recv=»
+(Info)	[14:38:19]  but send=Î
+(Info)	[14:38:19] we decoded: ;
+(Info)	[14:38:19] but real info is: ƒ
+(Info)	[14:38:19] @ pos: 208
+(Info)	[14:38:19] Desynced at position: 208, recv=;
+(Info)	[14:38:19]  but send=ƒ
+(Info)	[14:38:19] we decoded: s
+(Info)	[14:38:19] but real info is: ¯
+(Info)	[14:38:19] @ pos: 209
+(Info)	[14:38:19] Desynced at position: 209, recv=s
+(Info)	[14:38:19]  but send=¯
+(Info)	[14:38:19] we decoded: »
+(Info)	[14:38:19] but real info is: ­
+(Info)	[14:38:19] @ pos: 210
+(Info)	[14:38:19] Desynced at position: 210, recv=»
+(Info)	[14:38:19]  but send=­
+(Info)	[14:38:19] we decoded: {
+(Info)	[14:38:19] but real info is: ¥
+(Info)	[14:38:19] @ pos: 211
+(Info)	[14:38:19] Desynced at position: 211, recv={
+(Info)	[14:38:19]  but send=¥
+(Info)	[14:38:19] we decoded: s
+(Info)	[14:38:19] but real info is: +
+(Info)	[14:38:19] @ pos: 212
+(Info)	[14:38:19] Desynced at position: 212, recv=s
+(Info)	[14:38:19]  but send=+
+(Info)	[14:38:19] we decoded: »
+(Info)	[14:38:19] but real info is: ç
+(Info)	[14:38:19] @ pos: 213
+(Info)	[14:38:19] Desynced at position: 213, recv=»
+(Info)	[14:38:19]  but send=ç
+(Info)	[14:38:19] we decoded: {
+(Info)	[14:38:19] but real info is:  
+(Info)	[14:38:19] @ pos: 214
+(Info)	[14:38:19] Desynced at position: 214, recv={
+(Info)	[14:38:19]  but send= 
+(Info)	[14:38:19] we decoded: »
+(Info)	[14:38:19] but real info is: >
+(Info)	[14:38:19] @ pos: 215
+(Info)	[14:38:19] Desynced at position: 215, recv=»
+(Info)	[14:38:19]  but send=>
+(Info)	[14:38:19] we decoded: »
+(Info)	[14:38:19] but real info is: u
+(Info)	[14:38:19] @ pos: 216
+(Info)	[14:38:19] Desynced at position: 216, recv=»
+(Info)	[14:38:19]  but send=u
+(Info)	[14:38:19] we decoded: {
+(Info)	[14:38:19] but real info is: }
+(Info)	[14:38:19] @ pos: 217
+(Info)	[14:38:19] Desynced at position: 217, recv={
+(Info)	[14:38:19]  but send=}
+(Info)	[14:38:19] we decoded: »
+(Info)	[14:38:19] but real info is: A
+(Info)	[14:38:19] @ pos: 218
+(Info)	[14:38:19] Desynced at position: 218, recv=»
+(Info)	[14:38:19]  but send=A
+(Info)	[14:38:19] we decoded: K
+(Info)	[14:38:19] but real info is: µ
+(Info)	[14:38:19] @ pos: 219
+(Info)	[14:38:19] Desynced at position: 219, recv=K
+(Info)	[14:38:19]  but send=µ
+(Info)	[14:38:19] we decoded: {
+(Info)	[14:38:19] but real info is: 
+(Info)	[14:38:20] @ pos: 220
+(Info)	[14:38:20] Desynced at position: 220, recv={
+(Info)	[14:38:20]  but send=
+(Info)	[14:38:20] we decoded: »
+(Info)	[14:38:20] but real info is: ³
+(Info)	[14:38:20] @ pos: 221
+(Info)	[14:38:20] Desynced at position: 221, recv=»
+(Info)	[14:38:20]  but send=³
+(Info)	[14:38:20] we decoded: K
+(Info)	[14:38:20] but real info is: j
+(Info)	[14:38:20] @ pos: 222
+(Info)	[14:38:20] Desynced at position: 222, recv=K
+(Info)	[14:38:20]  but send=j
+(Info)	[14:38:20] we decoded: B
+(Info)	[14:38:20] but real info is: ¸
+(Info)	[14:38:20] @ pos: 223
+(Info)	[14:38:20] Desynced at position: 223, recv=B
+(Info)	[14:38:20]  but send=¸
+(Info)	[14:38:20] we decoded: »
+(Info)	[14:38:20] but real info is: §
+(Info)	[14:38:20] @ pos: 224
+(Info)	[14:38:20] Desynced at position: 224, recv=»
+(Info)	[14:38:20]  but send=§
+(Info)	[14:38:20] we decoded: K
+(Info)	[14:38:20] but real info is: ´
+(Info)	[14:38:20] @ pos: 225
+(Info)	[14:38:20] Desynced at position: 225, recv=K
+(Info)	[14:38:20]  but send=´
+(Info)	[14:38:20] we decoded: B
+(Info)	[14:38:20] but real info is: 
+(Info)	[14:38:20] @ pos: 226
+(Info)	[14:38:20] Desynced at position: 226, recv=B
+(Info)	[14:38:20]  but send=
+(Info)	[14:38:20] we decoded: r
+(Info)	[14:38:20] but real info is: b
+(Info)	[14:38:20] @ pos: 227
+(Info)	[14:38:20] Desynced at position: 227, recv=r
+(Info)	[14:38:20]  but send=b
+(Info)	[14:38:20] we decoded: K
+(Info)	[14:38:20] but real info is: Ë
+(Info)	[14:38:20] @ pos: 228
+(Info)	[14:38:20] Desynced at position: 228, recv=K
+(Info)	[14:38:20]  but send=Ë
+(Info)	[14:38:20] we decoded: B
+(Info)	[14:38:20] but real info is: ™
+(Info)	[14:38:20] @ pos: 229
+(Info)	[14:38:20] Desynced at position: 229, recv=B
+(Info)	[14:38:20]  but send=™
+(Info)	[14:38:20] we decoded: r
+(Info)	[14:38:20] but real info is: Ú
+(Info)	[14:38:20] @ pos: 230
+(Info)	[14:38:20] Desynced at position: 230, recv=r
+(Info)	[14:38:20]  but send=Ú
+(Info)	[14:38:20] we decoded:  
+(Info)	[14:38:20] but real info is:  
+(Info)	[14:38:20] @ pos: 231
+(Info)	[14:38:20] Desynced at position: 231, recv= 
+(Info)	[14:38:20]  but send= 
+(Info)	[14:38:20] we decoded: B
+(Info)	[14:38:20] but real info is: ú
+(Info)	[14:38:20] @ pos: 232
+(Info)	[14:38:20] Desynced at position: 232, recv=B
+(Info)	[14:38:20]  but send=ú
+(Info)	[14:38:20] we decoded: r
+(Info)	[14:38:20] but real info is: b
+(Info)	[14:38:20] @ pos: 233
+(Info)	[14:38:20] Desynced at position: 233, recv=r
+(Info)	[14:38:20]  but send=b
+(Info)	[14:38:20] we decoded:  
+(Info)	[14:38:20] but real info is: m
+(Info)	[14:38:20] @ pos: 234
+(Info)	[14:38:20] Desynced at position: 234, recv= 
+(Info)	[14:38:20]  but send=m
+(Info)	[14:38:20] we decoded: ß
+(Info)	[14:38:20] but real info is: ó
+(Info)	[14:38:20] @ pos: 235
+(Info)	[14:38:20] Desynced at position: 235, recv=ß
+(Info)	[14:38:20]  but send=ó
+(Info)	[14:38:20] we decoded: r
+(Info)	[14:38:20] but real info is: Ö
+(Info)	[14:38:20] @ pos: 236
+(Info)	[14:38:20] Desynced at position: 236, recv=r
+(Info)	[14:38:20]  but send=Ö
+(Info)	[14:38:20] we decoded:  
+(Info)	[14:38:20] but real info is: Ü
+(Info)	[14:38:20] @ pos: 237
+(Info)	[14:38:20] Desynced at position: 237, recv= 
+(Info)	[14:38:20]  but send=Ü
+(Info)	[14:38:20] we decoded: ß
+(Info)	[14:38:20] but real info is: Ä
+(Info)	[14:38:20] @ pos: 238
+(Info)	[14:38:20] Desynced at position: 238, recv=ß
+(Info)	[14:38:20]  but send=Ä
+(Info)	[14:38:20] we decoded: O
+(Info)	[14:38:20] but real info is: ý
+(Info)	[14:38:20] @ pos: 239
+(Info)	[14:38:20] Desynced at position: 239, recv=O
+(Info)	[14:38:20]  but send=ý
+(Info)	[14:38:20] we decoded:  
+(Info)	[14:38:20] but real info is: ä
+(Info)	[14:38:20] @ pos: 240
+(Info)	[14:38:20] Desynced at position: 240, recv= 
+(Info)	[14:38:20]  but send=ä
+(Info)	[14:38:20] we decoded: ß
+(Info)	[14:38:20] but real info is: ;
+(Info)	[14:38:20] @ pos: 241
+(Info)	[14:38:20] Desynced at position: 241, recv=ß
+(Info)	[14:38:20]  but send=;
+(Info)	[14:38:20] we decoded: O
+(Info)	[14:38:20] but real info is: #
+(Info)	[14:38:20] @ pos: 242
+(Info)	[14:38:20] Desynced at position: 242, recv=O
+(Info)	[14:38:20]  but send=#
+(Info)	[14:38:20] we decoded: n
+(Info)	[14:38:20] but real info is: ×
+(Info)	[14:38:20] @ pos: 243
+(Info)	[14:38:20] Desynced at position: 243, recv=n
+(Info)	[14:38:20]  but send=×
+(Info)	[14:38:20] we decoded: ß
+(Info)	[14:38:20] but real info is: Ë
+(Info)	[14:38:20] @ pos: 244
+(Info)	[14:38:20] Desynced at position: 244, recv=ß
+(Info)	[14:38:20]  but send=Ë
+(Info)	[14:38:20] we decoded: O
+(Info)	[14:38:20] but real info is: ¶
+(Info)	[14:38:20] @ pos: 245
+(Info)	[14:38:20] Desynced at position: 245, recv=O
+(Info)	[14:38:20]  but send=¶
+(Info)	[14:38:20] we decoded: n
+(Info)	[14:38:20] but real info is: ”
+(Info)	[14:38:20] @ pos: 246
+(Info)	[14:38:20] Desynced at position: 246, recv=n
+(Info)	[14:38:20]  but send=”
+(Info)	[14:38:20] we decoded: v
+(Info)	[14:38:20] but real info is: y
+(Info)	[14:38:20] @ pos: 247
+(Info)	[14:38:20] Desynced at position: 247, recv=v
+(Info)	[14:38:20]  but send=y
+(Info)	[14:38:20] we decoded: O
+(Info)	[14:38:20] but real info is: Q
+(Info)	[14:38:20] @ pos: 248
+(Info)	[14:38:20] Desynced at position: 248, recv=O
+(Info)	[14:38:20]  but send=Q
+(Info)	[14:38:20] we decoded: n
+(Info)	[14:38:20] but real info is: Z
+(Info)	[14:38:20] @ pos: 249
+(Info)	[14:38:20] Desynced at position: 249, recv=n
+(Info)	[14:38:20]  but send=Z
+(Info)	[14:38:20] we decoded: v
+(Info)	[14:38:20] but real info is: ì
+(Info)	[14:38:20] @ pos: 250
+(Info)	[14:38:20] Desynced at position: 250, recv=v
+(Info)	[14:38:20]  but send=ì
+(Info)	[14:38:20] we decoded: w
+(Info)	[14:38:20] but real info is: Å
+(Info)	[14:38:20] @ pos: 251
+(Info)	[14:38:20] Desynced at position: 251, recv=w
+(Info)	[14:38:20]  but send=Å
+(Info)	[14:38:20] we decoded: n
+(Info)	[14:38:20] but real info is: ò
+(Info)	[14:38:20] @ pos: 252
+(Info)	[14:38:20] Desynced at position: 252, recv=n
+(Info)	[14:38:20]  but send=ò
+(Info)	[14:38:20] we decoded: v
+(Info)	[14:38:20] but real info is: a
+(Info)	[14:38:20] @ pos: 253
+(Info)	[14:38:20] Desynced at position: 253, recv=v
+(Info)	[14:38:20]  but send=a
+(Info)	[14:38:20] we decoded: w
+(Info)	[14:38:20] but real info is: c
+(Info)	[14:38:21] @ pos: 254
+(Info)	[14:38:21] Desynced at position: 254, recv=w
+(Info)	[14:38:21]  but send=c
+(Info)	[14:38:21] we decoded: ž
+(Info)	[14:38:21] but real info is: —
+(Info)	[14:38:21] @ pos: 255
+(Info)	[14:38:21] Desynced at position: 255, recv=ž
+(Info)	[14:38:21]  but send=—
+(Info)	[14:38:21] we decoded: v
+(Info)	[14:38:21] but real info is: æ
+(Info)	[14:38:21] @ pos: 256
+(Info)	[14:38:21] Desynced at position: 256, recv=v
+(Info)	[14:38:21]  but send=æ
+(Info)	[14:38:21] we decoded: w
+(Info)	[14:38:21] but real info is: Š
+(Info)	[14:38:21] @ pos: 257
+(Info)	[14:38:21] Desynced at position: 257, recv=w
+(Info)	[14:38:21]  but send=Š
+(Info)	[14:38:21] we decoded: ž
+(Info)	[14:38:21] but real info is: Þ
+(Info)	[14:38:21] @ pos: 258
+(Info)	[14:38:21] Desynced at position: 258, recv=ž
+(Info)	[14:38:21]  but send=Þ
+(Info)	[14:38:21] we decoded: þ
+(Info)	[14:38:21] but real info is: Õ
+(Info)	[14:38:21] @ pos: 259
+(Info)	[14:38:21] Desynced at position: 259, recv=þ
+(Info)	[14:38:21]  but send=Õ
+(Info)	[14:38:21] we decoded: w
+(Info)	[14:38:21] but real info is: ß
+(Info)	[14:38:21] @ pos: 260
+(Info)	[14:38:21] Desynced at position: 260, recv=w
+(Info)	[14:38:21]  but send=ß
+(Info)	[14:38:21] we decoded: ž
+(Info)	[14:38:21] but real info is: ×
+(Info)	[14:38:21] @ pos: 261
+(Info)	[14:38:21] Desynced at position: 261, recv=ž
+(Info)	[14:38:21]  but send=×
+(Info)	[14:38:21] we decoded: þ
+(Info)	[14:38:21] but real info is: Æ
+(Info)	[14:38:21] @ pos: 262
+(Info)	[14:38:21] Desynced at position: 262, recv=þ
+(Info)	[14:38:21]  but send=Æ
+(Info)	[14:38:21] we decoded: ;
+(Info)	[14:38:21] but real info is: ð
+(Info)	[14:38:21] @ pos: 263
+(Info)	[14:38:21] Desynced at position: 263, recv=;
+(Info)	[14:38:21]  but send=ð
+(Info)	[14:38:21] we decoded: ž
+(Info)	[14:38:21] but real info is: Õ
+(Info)	[14:38:21] @ pos: 264
+(Info)	[14:38:21] Desynced at position: 264, recv=ž
+(Info)	[14:38:21]  but send=Õ
+(Info)	[14:38:21] we decoded: þ
+(Info)	[14:38:21] but real info is: ü
+(Info)	[14:38:21] @ pos: 265
+(Info)	[14:38:21] Desynced at position: 265, recv=þ
+(Info)	[14:38:21]  but send=ü
+(Info)	[14:38:21] we decoded: ;
+(Info)	[14:38:21] but real info is: 
+(Info)	[14:38:21] @ pos: 266
+(Info)	[14:38:21] Desynced at position: 266, recv=;
+(Info)	[14:38:21]  but send=
+(Info)	[14:38:21] we decoded: ;
+(Info)	[14:38:21] but real info is: ö
+(Info)	[14:38:21] @ pos: 267
+(Info)	[14:38:21] Desynced at position: 267, recv=;
+(Info)	[14:38:21]  but send=ö
+(Info)	[14:38:21] we decoded: þ
+(Info)	[14:38:21] but real info is: ÷
+(Info)	[14:38:21] @ pos: 268
+(Info)	[14:38:21] Desynced at position: 268, recv=þ
+(Info)	[14:38:21]  but send=÷
+(Info)	[14:38:21] we decoded: ;
+(Info)	[14:38:21] but real info is: 
+(Info)	[14:38:21] @ pos: 269
+(Info)	[14:38:21] Desynced at position: 269, recv=;
+(Info)	[14:38:21]  but send=
+(Info)	[14:38:21] we decoded: ;
+(Info)	[14:38:21] but real info is: î
+(Info)	[14:38:21] @ pos: 270
+(Info)	[14:38:21] Desynced at position: 270, recv=;
+(Info)	[14:38:21]  but send=î
+(Info)	[14:38:21] we decoded: 3
+(Info)	[14:38:21] but real info is: ÷
+(Info)	[14:38:21] @ pos: 271
+(Info)	[14:38:21] Desynced at position: 271, recv=3
+(Info)	[14:38:21]  but send=÷
+(Info)	[14:38:21] we decoded: ;
+(Info)	[14:38:21] but real info is: ®
+(Info)	[14:38:21] @ pos: 272
+(Info)	[14:38:21] Desynced at position: 272, recv=;
+(Info)	[14:38:21]  but send=®
+(Info)	[14:38:21] we decoded: ;
+(Info)	[14:38:21] but real info is: š
+(Info)	[14:38:21] @ pos: 273
+(Info)	[14:38:21] Desynced at position: 273, recv=;
+(Info)	[14:38:21]  but send=š
+(Info)	[14:38:21] we decoded: 3
+(Info)	[14:38:21] but real info is: »
+(Info)	[14:38:21] @ pos: 274
+(Info)	[14:38:21] Desynced at position: 274, recv=3
+(Info)	[14:38:21]  but send=»
+(Info)	[14:38:21] we decoded: 7
+(Info)	[14:38:21] but real info is: 
+(Info)	[14:38:21] @ pos: 275
+(Info)	[14:38:21] Desynced at position: 275, recv=7
+(Info)	[14:38:21]  but send=
+(Info)	[14:38:21] we decoded: ;
+(Info)	[14:38:21] but real info is: ú
+(Info)	[14:38:21] @ pos: 276
+(Info)	[14:38:21] Desynced at position: 276, recv=;
+(Info)	[14:38:21]  but send=ú
+(Info)	[14:38:21] we decoded: 3
+(Info)	[14:38:21] but real info is: …
+(Info)	[14:38:21] @ pos: 277
+(Info)	[14:38:21] Desynced at position: 277, recv=3
+(Info)	[14:38:21]  but send=…
+(Info)	[14:38:21] we decoded: 7
+(Info)	[14:38:21] but real info is: V
+(Info)	[14:38:21] @ pos: 278
+(Info)	[14:38:21] Desynced at position: 278, recv=7
+(Info)	[14:38:21]  but send=V
+(Info)	[14:38:21] we decoded: f
+(Info)	[14:38:21] but real info is: L
+(Info)	[14:38:21] @ pos: 279
+(Info)	[14:38:21] Desynced at position: 279, recv=f
+(Info)	[14:38:21]  but send=L
+(Info)	[14:38:21] we decoded: 3
+(Info)	[14:38:21] but real info is: ÷
+(Info)	[14:38:21] @ pos: 280
+(Info)	[14:38:21] Desynced at position: 280, recv=3
+(Info)	[14:38:21]  but send=÷
+(Info)	[14:38:21] we decoded: 7
+(Info)	[14:38:21] but real info is: M
+(Info)	[14:38:21] @ pos: 281
+(Info)	[14:38:21] Desynced at position: 281, recv=7
+(Info)	[14:38:21]  but send=M
+(Info)	[14:38:21] we decoded: f
+(Info)	[14:38:21] but real info is: ,
+(Info)	[14:38:21] @ pos: 282
+(Info)	[14:38:21] Desynced at position: 282, recv=f
+(Info)	[14:38:21]  but send=,
+(Info)	[14:38:21] we decoded: Q
+(Info)	[14:38:21] but real info is: ×
+(Info)	[14:38:21] @ pos: 283
+(Info)	[14:38:21] Desynced at position: 283, recv=Q
+(Info)	[14:38:21]  but send=×
+(Info)	[14:38:21] we decoded: 7
+(Info)	[14:38:21] but real info is: Ú
+(Info)	[14:38:21] @ pos: 284
+(Info)	[14:38:21] Desynced at position: 284, recv=7
+(Info)	[14:38:21]  but send=Ú
+(Info)	[14:38:21] we decoded: f
+(Info)	[14:38:21] but real info is: 
+(Info)	[14:38:21] @ pos: 285
+(Info)	[14:38:21] Desynced at position: 285, recv=f
+(Info)	[14:38:21]  but send=
+(Info)	[14:38:21] we decoded: Q
+(Info)	[14:38:21] but real info is: Ç
+(Info)	[14:38:21] @ pos: 286
+(Info)	[14:38:21] Desynced at position: 286, recv=Q
+(Info)	[14:38:21]  but send=Ç
+(Info)	[14:38:21] we decoded: Ï
+(Info)	[14:38:21] but real info is: *
+(Info)	[14:38:22] @ pos: 287
+(Info)	[14:38:22] Desynced at position: 287, recv=Ï
+(Info)	[14:38:22]  but send=*
+(Info)	[14:38:22] we decoded: f
+(Info)	[14:38:22] but real info is: z
+(Info)	[14:38:22] @ pos: 288
+(Info)	[14:38:22] Desynced at position: 288, recv=f
+(Info)	[14:38:22]  but send=z
+(Info)	[14:38:22] we decoded: Q
+(Info)	[14:38:22] but real info is: W
+(Info)	[14:38:22] @ pos: 289
+(Info)	[14:38:22] Desynced at position: 289, recv=Q
+(Info)	[14:38:22]  but send=W
+(Info)	[14:38:22] we decoded: Ï
+(Info)	[14:38:22] but real info is: º
+(Info)	[14:38:22] @ pos: 290
+(Info)	[14:38:22] Desynced at position: 290, recv=Ï
+(Info)	[14:38:22]  but send=º
+(Info)	[14:38:22] we decoded: Æ
+(Info)	[14:38:22] but real info is: ¬
+(Info)	[14:38:22] @ pos: 291
+(Info)	[14:38:22] Desynced at position: 291, recv=Æ
+(Info)	[14:38:22]  but send=¬
+(Info)	[14:38:22] we decoded: Q
+(Info)	[14:38:22] but real info is: í
+(Info)	[14:38:22] @ pos: 292
+(Info)	[14:38:22] Desynced at position: 292, recv=Q
+(Info)	[14:38:22]  but send=í
+(Info)	[14:38:22] we decoded: Ï
+(Info)	[14:38:22] but real info is: “
+(Info)	[14:38:22] @ pos: 293
+(Info)	[14:38:22] Desynced at position: 293, recv=Ï
+(Info)	[14:38:22]  but send=“
+(Info)	[14:38:22] we decoded: Æ
+(Info)	[14:38:22] but real info is: É
+(Info)	[14:38:22] @ pos: 294
+(Info)	[14:38:22] Desynced at position: 294, recv=Æ
+(Info)	[14:38:22]  but send=É
+(Info)	[14:38:22] we decoded: |
+(Info)	[14:38:22] but real info is: 
+(Info)	[14:38:22] @ pos: 295
+(Info)	[14:38:22] Desynced at position: 295, recv=|
+(Info)	[14:38:22]  but send=
+(Info)	[14:38:22] we decoded: Ï
+(Info)	[14:38:22] but real info is: Î
+(Info)	[14:38:22] @ pos: 296
+(Info)	[14:38:22] Desynced at position: 296, recv=Ï
+(Info)	[14:38:22]  but send=Î
+(Info)	[14:38:22] we decoded: Æ
+(Info)	[14:38:22] but real info is: ï
+(Info)	[14:38:22] @ pos: 297
+(Info)	[14:38:22] Desynced at position: 297, recv=Æ
+(Info)	[14:38:22]  but send=ï
+(Info)	[14:38:22] we decoded: |
+(Info)	[14:38:22] but real info is: v
+(Info)	[14:38:22] @ pos: 298
+(Info)	[14:38:22] Desynced at position: 298, recv=|
+(Info)	[14:38:22]  but send=v
+(Info)	[14:38:22] we decoded: q
+(Info)	[14:38:22] but real info is: ‹
+(Info)	[14:38:22] @ pos: 299
+(Info)	[14:38:22] Desynced at position: 299, recv=q
+(Info)	[14:38:22]  but send=‹
+(Info)	[14:38:22] we decoded: Æ
+(Info)	[14:38:22] but real info is: Ó
+(Info)	[14:38:22] @ pos: 300
+(Info)	[14:38:22] Desynced at position: 300, recv=Æ
+(Info)	[14:38:22]  but send=Ó
+(Info)	[14:38:22] we decoded: |
+(Info)	[14:38:22] but real info is: ÷
+(Info)	[14:38:22] @ pos: 301
+(Info)	[14:38:22] Desynced at position: 301, recv=|
+(Info)	[14:38:22]  but send=÷
+(Info)	[14:38:22] we decoded: q
+(Info)	[14:38:22] but real info is: Þ
+(Info)	[14:38:22] @ pos: 302
+(Info)	[14:38:22] Desynced at position: 302, recv=q
+(Info)	[14:38:22]  but send=Þ
+(Info)	[14:38:22] we decoded: ]
+(Info)	[14:38:22] but real info is: (
+(Info)	[14:38:22] @ pos: 303
+(Info)	[14:38:22] Desynced at position: 303, recv=]
+(Info)	[14:38:22]  but send=(
+(Info)	[14:38:22] we decoded: |
+(Info)	[14:38:22] but real info is: Ô
+(Info)	[14:38:22] @ pos: 304
+(Info)	[14:38:22] Desynced at position: 304, recv=|
+(Info)	[14:38:22]  but send=Ô
+(Info)	[14:38:22] we decoded: q
+(Info)	[14:38:22] but real info is: “
+(Info)	[14:38:22] @ pos: 305
+(Info)	[14:38:22] Desynced at position: 305, recv=q
+(Info)	[14:38:22]  but send=“
+(Info)	[14:38:22] we decoded: ]
+(Info)	[14:38:22] but real info is: 
+(Info)	[14:38:22] @ pos: 306
+(Info)	[14:38:22] Desynced at position: 306, recv=]
+(Info)	[14:38:22]  but send=
+(Info)	[14:38:22] we decoded: s
+(Info)	[14:38:22] but real info is: ñ
+(Info)	[14:38:22] @ pos: 307
+(Info)	[14:38:22] Desynced at position: 307, recv=s
+(Info)	[14:38:22]  but send=ñ
+(Info)	[14:38:22] we decoded: q
+(Info)	[14:38:22] but real info is: `
+(Info)	[14:38:22] @ pos: 308
+(Info)	[14:38:22] Desynced at position: 308, recv=q
+(Info)	[14:38:22]  but send=`
+(Info)	[14:38:22] we decoded: ]
+(Info)	[14:38:22] but real info is: 
+(Info)	[14:38:22] @ pos: 309
+(Info)	[14:38:22] Desynced at position: 309, recv=]
+(Info)	[14:38:22]  but send=
+(Info)	[14:38:22] we decoded: s
+(Info)	[14:38:22] but real info is: {
+(Info)	[14:38:22] @ pos: 310
+(Info)	[14:38:22] Desynced at position: 310, recv=s
+(Info)	[14:38:22]  but send={
+(Info)	[14:38:22] we decoded: f
+(Info)	[14:38:22] but real info is:  
+(Info)	[14:38:22] @ pos: 311
+(Info)	[14:38:22] Desynced at position: 311, recv=f
+(Info)	[14:38:22]  but send= 
+(Info)	[14:38:22] we decoded: ]
+(Info)	[14:38:22] but real info is: ‹
+(Info)	[14:38:22] @ pos: 312
+(Info)	[14:38:22] Desynced at position: 312, recv=]
+(Info)	[14:38:22]  but send=‹
+(Info)	[14:38:22] we decoded: s
+(Info)	[14:38:22] but real info is: u
+(Info)	[14:38:22] @ pos: 313
+(Info)	[14:38:22] Desynced at position: 313, recv=s
+(Info)	[14:38:22]  but send=u
+(Info)	[14:38:22] we decoded: f
+(Info)	[14:38:22] but real info is: î
+(Info)	[14:38:22] @ pos: 314
+(Info)	[14:38:22] Desynced at position: 314, recv=f
+(Info)	[14:38:22]  but send=î
+(Info)	[14:38:22] we decoded: ;
+(Info)	[14:38:22] but real info is: Z
+(Info)	[14:38:22] @ pos: 315
+(Info)	[14:38:22] Desynced at position: 315, recv=;
+(Info)	[14:38:22]  but send=Z
+(Info)	[14:38:22] we decoded: s
+(Info)	[14:38:22] but real info is: ¡
+(Info)	[14:38:22] @ pos: 316
+(Info)	[14:38:22] Desynced at position: 316, recv=s
+(Info)	[14:38:22]  but send=¡
+(Info)	[14:38:22] we decoded: f
+(Info)	[14:38:22] but real info is: ü
+(Info)	[14:38:22] @ pos: 317
+(Info)	[14:38:22] Desynced at position: 317, recv=f
+(Info)	[14:38:22]  but send=ü
+(Info)	[14:38:22] we decoded: ;
+(Info)	[14:38:22] but real info is: ‹
+(Info)	[14:38:22] @ pos: 318
+(Info)	[14:38:22] Desynced at position: 318, recv=;
+(Info)	[14:38:22]  but send=‹
+(Info)	[14:38:22] we decoded: z
+(Info)	[14:38:22] but real info is: 
+(Info)	[14:38:22] @ pos: 319
+(Info)	[14:38:22] Desynced at position: 319, recv=z
+(Info)	[14:38:23]  but send=
+(Info)	[14:38:23] we decoded: f
+(Info)	[14:38:23] but real info is: !
+(Info)	[14:38:23] @ pos: 320
+(Info)	[14:38:23] Desynced at position: 320, recv=f
+(Info)	[14:38:23]  but send=!
+(Info)	[14:38:23] we decoded: ;
+(Info)	[14:38:23] but real info is: ½
+(Info)	[14:38:23] @ pos: 321
+(Info)	[14:38:23] Desynced at position: 321, recv=;
+(Info)	[14:38:23]  but send=½
+(Info)	[14:38:23] we decoded: z
+(Info)	[14:38:23] but real info is: ­
+(Info)	[14:38:23] @ pos: 322
+(Info)	[14:38:23] Desynced at position: 322, recv=z
+(Info)	[14:38:23]  but send=­
+(Info)	[14:38:23] we decoded: |
+(Info)	[14:38:23] but real info is: ý
+(Info)	[14:38:23] @ pos: 323
+(Info)	[14:38:23] Desynced at position: 323, recv=|
+(Info)	[14:38:23]  but send=ý
+(Info)	[14:38:23] we decoded: ;
+(Info)	[14:38:23] but real info is: ®
+(Info)	[14:38:23] @ pos: 324
+(Info)	[14:38:23] Desynced at position: 324, recv=;
+(Info)	[14:38:23]  but send=®
+(Info)	[14:38:23] we decoded: z
+(Info)	[14:38:23] but real info is: U
+(Info)	[14:38:23] @ pos: 325
+(Info)	[14:38:23] Desynced at position: 325, recv=z
+(Info)	[14:38:23]  but send=U
+(Info)	[14:38:23] we decoded: |
+(Info)	[14:38:23] but real info is: 
+(Info)	[14:38:23] @ pos: 326
+(Info)	[14:38:23] Desynced at position: 326, recv=|
+(Info)	[14:38:23]  but send=
+(Info)	[14:38:23] we decoded: Ò
+(Info)	[14:38:23] but real info is: 
+(Info)	[14:38:23] @ pos: 327
+(Info)	[14:38:23] Desynced at position: 327, recv=Ò
+(Info)	[14:38:23]  but send=
+(Info)	[14:38:23] we decoded: z
+(Info)	[14:38:23] but real info is: *
+(Info)	[14:38:23] @ pos: 328
+(Info)	[14:38:23] Desynced at position: 328, recv=z
+(Info)	[14:38:23]  but send=*
+(Info)	[14:38:23] we decoded: |
+(Info)	[14:38:23] but real info is: 
+(Info)	[14:38:23] @ pos: 329
+(Info)	[14:38:23] Desynced at position: 329, recv=|
+(Info)	[14:38:23]  but send=
+(Info)	[14:38:23] we decoded: Ò
+(Info)	[14:38:23] but real info is: ù
+(Info)	[14:38:23] @ pos: 330
+(Info)	[14:38:23] Desynced at position: 330, recv=Ò
+(Info)	[14:38:23]  but send=ù
+(Info)	[14:38:23] we decoded: ]
+(Info)	[14:38:23] but real info is: 
+(Info)	[14:38:23] @ pos: 331
+(Info)	[14:38:23] Desynced at position: 331, recv=]
+(Info)	[14:38:23]  but send=
+(Info)	[14:38:23] we decoded: |
+(Info)	[14:38:23] but real info is: »
+(Info)	[14:38:23] @ pos: 332
+(Info)	[14:38:23] Desynced at position: 332, recv=|
+(Info)	[14:38:23]  but send=»
+(Info)	[14:38:23] we decoded: Ò
+(Info)	[14:38:23] but real info is: _
+(Info)	[14:38:23] @ pos: 333
+(Info)	[14:38:23] Desynced at position: 333, recv=Ò
+(Info)	[14:38:23]  but send=_
+(Info)	[14:38:23] we decoded: ]
+(Info)	[14:38:23] but real info is: F
+(Info)	[14:38:23] @ pos: 334
+(Info)	[14:38:23] Desynced at position: 334, recv=]
+(Info)	[14:38:23]  but send=F
+(Info)	[14:38:23] we decoded: ?
+(Info)	[14:38:23] but real info is:  
+(Info)	[14:38:23] @ pos: 335
+(Info)	[14:38:23] Desynced at position: 335, recv=?
+(Info)	[14:38:23]  but send= 
+(Info)	[14:38:23] we decoded: Ò
+(Info)	[14:38:23] but real info is: ­
+(Info)	[14:38:23] @ pos: 336
+(Info)	[14:38:23] Desynced at position: 336, recv=Ò
+(Info)	[14:38:23]  but send=­
+(Info)	[14:38:23] we decoded: ]
+(Info)	[14:38:23] but real info is: è
+(Info)	[14:38:23] @ pos: 337
+(Info)	[14:38:23] Desynced at position: 337, recv=]
+(Info)	[14:38:23]  but send=è
+(Info)	[14:38:23] we decoded: ?
+(Info)	[14:38:23] but real info is: Ý
+(Info)	[14:38:23] @ pos: 338
+(Info)	[14:38:23] Desynced at position: 338, recv=?
+(Info)	[14:38:23]  but send=Ý
+(Info)	[14:38:23] we decoded: 
+(Info)	[14:38:23] but real info is: 1
+(Info)	[14:38:23] @ pos: 339
+(Info)	[14:38:23] Desynced at position: 339, recv=
+(Info)	[14:38:23]  but send=1
+(Info)	[14:38:23] we decoded: ]
+(Info)	[14:38:23] but real info is: Š
+(Info)	[14:38:23] @ pos: 340
+(Info)	[14:38:23] Desynced at position: 340, recv=]
+(Info)	[14:38:23]  but send=Š
+(Info)	[14:38:23] we decoded: ?
+(Info)	[14:38:23] but real info is: ý
+(Info)	[14:38:23] @ pos: 341
+(Info)	[14:38:23] Desynced at position: 341, recv=?
+(Info)	[14:38:23]  but send=ý
+(Info)	[14:38:23] we decoded: 
+(Info)	[14:38:23] but real info is: â
+(Info)	[14:38:23] @ pos: 342
+(Info)	[14:38:23] Desynced at position: 342, recv=
+(Info)	[14:38:23]  but send=â
+(Info)	[14:38:23] we decoded: º
+(Info)	[14:38:23] but real info is: >
+(Info)	[14:38:23] @ pos: 343
+(Info)	[14:38:23] Desynced at position: 343, recv=º
+(Info)	[14:38:23]  but send=>
+(Info)	[14:38:23] we decoded: ?
+(Info)	[14:38:23] but real info is: Š
+(Info)	[14:38:23] @ pos: 344
+(Info)	[14:38:23] Desynced at position: 344, recv=?
+(Info)	[14:38:23]  but send=Š
+(Info)	[14:38:23] we decoded: 
+(Info)	[14:38:23] but real info is: .
+(Info)	[14:38:23] @ pos: 345
+(Info)	[14:38:23] Desynced at position: 345, recv=
+(Info)	[14:38:23]  but send=.
+(Info)	[14:38:23] we decoded: º
+(Info)	[14:38:23] but real info is: o
+(Info)	[14:38:23] @ pos: 346
+(Info)	[14:38:23] Desynced at position: 346, recv=º
+(Info)	[14:38:23]  but send=o
+(Info)	[14:38:23] we decoded: †
+(Info)	[14:38:23] but real info is: s
+(Info)	[14:38:23] @ pos: 347
+(Info)	[14:38:23] Desynced at position: 347, recv=†
+(Info)	[14:38:23]  but send=s
+(Info)	[14:38:23] we decoded: 
+(Info)	[14:38:23] but real info is: Í
+(Info)	[14:38:23] @ pos: 348
+(Info)	[14:38:23] Desynced at position: 348, recv=
+(Info)	[14:38:23]  but send=Í
+(Info)	[14:38:23] we decoded: º
+(Info)	[14:38:23] but real info is: ø
+(Info)	[14:38:24] @ pos: 349
+(Info)	[14:38:24] Desynced at position: 349, recv=º
+(Info)	[14:38:24]  but send=ø
+(Info)	[14:38:24] we decoded: †
+(Info)	[14:38:24] but real info is: ·
+(Info)	[14:38:24] @ pos: 350
+(Info)	[14:38:24] Desynced at position: 350, recv=†
+(Info)	[14:38:24]  but send=·
+(Info)	[14:38:24] we decoded: Ô
+(Info)	[14:38:24] but real info is: ë
+(Info)	[14:38:24] @ pos: 351
+(Info)	[14:38:24] Desynced at position: 351, recv=Ô
+(Info)	[14:38:24]  but send=ë
+(Info)	[14:38:24] we decoded: º
+(Info)	[14:38:24] but real info is: ½
+(Info)	[14:38:24] @ pos: 352
+(Info)	[14:38:24] Desynced at position: 352, recv=º
+(Info)	[14:38:24]  but send=½
+(Info)	[14:38:24] we decoded: †
+(Info)	[14:38:24] but real info is: ‰
+(Info)	[14:38:24] @ pos: 353
+(Info)	[14:38:24] Desynced at position: 353, recv=†
+(Info)	[14:38:24]  but send=‰
+(Info)	[14:38:24] we decoded: Ô
+(Info)	[14:38:24] but real info is: û
+(Info)	[14:38:24] @ pos: 354
+(Info)	[14:38:24] Desynced at position: 354, recv=Ô
+(Info)	[14:38:24]  but send=û
+(Info)	[14:38:24] we decoded: "
+(Info)	[14:38:24] but real info is: _
+(Info)	[14:38:24] @ pos: 355
+(Info)	[14:38:24] Desynced at position: 355, recv="
+(Info)	[14:38:24]  but send=_
+(Info)	[14:38:24] we decoded: †
+(Info)	[14:38:24] but real info is: ¯
+(Info)	[14:38:24] @ pos: 356
+(Info)	[14:38:24] Desynced at position: 356, recv=†
+(Info)	[14:38:24]  but send=¯
+(Info)	[14:38:24] we decoded: Ô
+(Info)	[14:38:24] but real info is: 
+(Info)	[14:38:24] @ pos: 357
+(Info)	[14:38:24] Desynced at position: 357, recv=Ô
+(Info)	[14:38:24]  but send=
+(Info)	[14:38:24] we decoded: "
+(Info)	[14:38:24] but real info is: x
+(Info)	[14:38:24] @ pos: 358
+(Info)	[14:38:24] Desynced at position: 358, recv="
+(Info)	[14:38:24]  but send=x
+(Info)	[14:38:24] we decoded: ”
+(Info)	[14:38:24] but real info is: 
+(Info)	[14:38:24] @ pos: 359
+(Info)	[14:38:24] Desynced at position: 359, recv=”
+(Info)	[14:38:24]  but send=
+(Info)	[14:38:24] we decoded: Ô
+(Info)	[14:38:24] but real info is: å
+(Info)	[14:38:24] @ pos: 360
+(Info)	[14:38:24] Desynced at position: 360, recv=Ô
+(Info)	[14:38:24]  but send=å
+(Info)	[14:38:24] we decoded: "
+(Info)	[14:38:24] but real info is: Ù
+(Info)	[14:38:24] @ pos: 361
+(Info)	[14:38:24] Desynced at position: 361, recv="
+(Info)	[14:38:24]  but send=Ù
+(Info)	[14:38:24] we decoded: ”
+(Info)	[14:38:24] but real info is: d
+(Info)	[14:38:24] @ pos: 362
+(Info)	[14:38:24] Desynced at position: 362, recv=”
+(Info)	[14:38:24]  but send=d
+(Info)	[14:38:24] we decoded: m
+(Info)	[14:38:24] but real info is: }
+(Info)	[14:38:24] @ pos: 363
+(Info)	[14:38:24] Desynced at position: 363, recv=m
+(Info)	[14:38:24]  but send=}
+(Info)	[14:38:24] we decoded: "
+(Info)	[14:38:24] but real info is: H
+(Info)	[14:38:24] @ pos: 364
+(Info)	[14:38:24] Desynced at position: 364, recv="
+(Info)	[14:38:24]  but send=H
+(Info)	[14:38:24] we decoded: ”
+(Info)	[14:38:24] but real info is: ÷
+(Info)	[14:38:24] @ pos: 365
+(Info)	[14:38:24] Desynced at position: 365, recv=”
+(Info)	[14:38:24]  but send=÷
+(Info)	[14:38:24] we decoded: m
+(Info)	[14:38:24] but real info is: l
+(Info)	[14:38:24] @ pos: 366
+(Info)	[14:38:24] Desynced at position: 366, recv=m
+(Info)	[14:38:24]  but send=l
+(Info)	[14:38:24] we decoded: ã
+(Info)	[14:38:24] but real info is: ê
+(Info)	[14:38:24] @ pos: 367
+(Info)	[14:38:24] Desynced at position: 367, recv=ã
+(Info)	[14:38:24]  but send=ê
+(Info)	[14:38:24] we decoded: ”
+(Info)	[14:38:24] but real info is: ã
+(Info)	[14:38:24] @ pos: 368
+(Info)	[14:38:24] Desynced at position: 368, recv=”
+(Info)	[14:38:24]  but send=ã
+(Info)	[14:38:24] we decoded: m
+(Info)	[14:38:24] but real info is: ›
+(Info)	[14:38:24] @ pos: 369
+(Info)	[14:38:24] Desynced at position: 369, recv=m
+(Info)	[14:38:24]  but send=›
+(Info)	[14:38:24] we decoded: ã
+(Info)	[14:38:24] but real info is: {
+(Info)	[14:38:24] @ pos: 370
+(Info)	[14:38:24] Desynced at position: 370, recv=ã
+(Info)	[14:38:24]  but send={
+(Info)	[14:38:24] we decoded: “
+(Info)	[14:38:24] but real info is: ¶
+(Info)	[14:38:24] @ pos: 371
+(Info)	[14:38:24] Desynced at position: 371, recv=“
+(Info)	[14:38:24]  but send=¶
+(Info)	[14:38:24] we decoded: m
+(Info)	[14:38:24] but real info is: 
+(Info)	[14:38:24] @ pos: 372
+(Info)	[14:38:24] Desynced at position: 372, recv=m
+(Info)	[14:38:24]  but send=
+(Info)	[14:38:24] we decoded: ã
+(Info)	[14:38:24] but real info is: 
+(Info)	[14:38:24] @ pos: 373
+(Info)	[14:38:24] Desynced at position: 373, recv=ã
+(Info)	[14:38:24]  but send=
+(Info)	[14:38:24] we decoded: “
+(Info)	[14:38:24] but real info is: -
+(Info)	[14:38:24] @ pos: 374
+(Info)	[14:38:24] Desynced at position: 374, recv=“
+(Info)	[14:38:24]  but send=-
+(Info)	[14:38:24] we decoded: K
+(Info)	[14:38:24] but real info is: Ã
+(Info)	[14:38:24] @ pos: 375
+(Info)	[14:38:24] Desynced at position: 375, recv=K
+(Info)	[14:38:24]  but send=Ã
+(Info)	[14:38:24] we decoded: ã
+(Info)	[14:38:24] but real info is: ¹
+(Info)	[14:38:24] @ pos: 376
+(Info)	[14:38:24] Desynced at position: 376, recv=ã
+(Info)	[14:38:24]  but send=¹
+(Info)	[14:38:24] we decoded: “
+(Info)	[14:38:24] but real info is: ß
+(Info)	[14:38:24] @ pos: 377
+(Info)	[14:38:24] Desynced at position: 377, recv=“
+(Info)	[14:38:24]  but send=ß
+(Info)	[14:38:24] we decoded: K
+(Info)	[14:38:24] but real info is: =
+(Info)	[14:38:24] @ pos: 378
+(Info)	[14:38:24] Desynced at position: 378, recv=K
+(Info)	[14:38:24]  but send==
+(Info)	[14:38:24] we decoded: 9
+(Info)	[14:38:24] but real info is: {
+(Info)	[14:38:24] @ pos: 379
+(Info)	[14:38:24] Desynced at position: 379, recv=9
+(Info)	[14:38:24]  but send={
+(Info)	[14:38:25] we decoded: “
+(Info)	[14:38:25] but real info is: œ
+(Info)	[14:38:25] @ pos: 380
+(Info)	[14:38:25] Desynced at position: 380, recv=“
+(Info)	[14:38:25]  but send=œ
+(Info)	[14:38:25] we decoded: K
+(Info)	[14:38:25] but real info is: h
+(Info)	[14:38:25] @ pos: 381
+(Info)	[14:38:25] Desynced at position: 381, recv=K
+(Info)	[14:38:25]  but send=h
+(Info)	[14:38:25] we decoded: 9
+(Info)	[14:38:25] but real info is: Ë
+(Info)	[14:38:25] @ pos: 382
+(Info)	[14:38:25] Desynced at position: 382, recv=9
+(Info)	[14:38:25]  but send=Ë
+(Info)	[14:38:25] we decoded: W
+(Info)	[14:38:25] but real info is: y
+(Info)	[14:38:25] @ pos: 383
+(Info)	[14:38:25] Desynced at position: 383, recv=W
+(Info)	[14:38:25]  but send=y
+(Info)	[14:38:25] we decoded: K
+(Info)	[14:38:25] but real info is: Ï
+(Info)	[14:38:25] @ pos: 384
+(Info)	[14:38:25] Desynced at position: 384, recv=K
+(Info)	[14:38:25]  but send=Ï
+(Info)	[14:38:25] we decoded: 9
+(Info)	[14:38:25] but real info is: y
+(Info)	[14:38:25] @ pos: 385
+(Info)	[14:38:25] Desynced at position: 385, recv=9
+(Info)	[14:38:25]  but send=y
+(Info)	[14:38:25] we decoded: W
+(Info)	[14:38:25] but real info is: Ï
+(Info)	[14:38:25] @ pos: 386
+(Info)	[14:38:25] Desynced at position: 386, recv=W
+(Info)	[14:38:25]  but send=Ï
+(Info)	[14:38:25] we decoded: –
+(Info)	[14:38:25] but real info is: y
+(Info)	[14:38:25] @ pos: 387
+(Info)	[14:38:25] Desynced at position: 387, recv=–
+(Info)	[14:38:25]  but send=y
+(Info)	[14:38:25] we decoded: 9
+(Info)	[14:38:25] but real info is: Ï
+(Info)	[14:38:25] @ pos: 388
+(Info)	[14:38:25] Desynced at position: 388, recv=9
+(Info)	[14:38:25]  but send=Ï
+(Info)	[14:38:25] we decoded: W
+(Info)	[14:38:25] but real info is: y
+(Info)	[14:38:25] @ pos: 389
+(Info)	[14:38:25] Desynced at position: 389, recv=W
+(Info)	[14:38:25]  but send=y
+(Info)	[14:38:25] we decoded: –
+(Info)	[14:38:25] but real info is: Ï
+(Info)	[14:38:25] @ pos: 390
+(Info)	[14:38:25] Desynced at position: 390, recv=–
+(Info)	[14:38:25]  but send=Ï
+(Info)	[14:38:25] we decoded: »
+(Info)	[14:38:25] but real info is: y
+(Info)	[14:38:25] @ pos: 391
+(Info)	[14:38:25] Desynced at position: 391, recv=»
+(Info)	[14:38:25]  but send=y
+(Info)	[14:38:25] we decoded: W
+(Info)	[14:38:25] but real info is: ÿ
+(Info)	[14:38:25] @ pos: 392
+(Info)	[14:38:25] Desynced at position: 392, recv=W
+(Info)	[14:38:25]  but send=ÿ
+(Info)	[14:38:25] we decoded: –
+(Info)	[14:38:25] but real info is: ?
+(Info)	[14:38:25] @ pos: 393
+(Info)	[14:38:25] Desynced at position: 393, recv=–
+(Info)	[14:38:25]  but send=?
+(Info)	[14:38:25] we decoded: »
+(Info)	[14:38:25] but real info is: Î
+(Info)	[14:38:25] @ pos: 394
+(Info)	[14:38:25] Desynced at position: 394, recv=»
+(Info)	[14:38:25]  but send=Î
+(Info)	[14:38:25] we decoded: 
+(Info)	[14:38:25] but real info is: {
+(Info)	[14:38:25] @ pos: 395
+(Info)	[14:38:25] Desynced at position: 395, recv=
+(Info)	[14:38:25]  but send={
+(Info)	[14:38:25] we decoded: –
+(Info)	[14:38:25] but real info is: 
+(Info)	[14:38:25] @ pos: 396
+(Info)	[14:38:25] Desynced at position: 396, recv=–
+(Info)	[14:38:25]  but send=
+(Info)	[14:38:25] we decoded: »
+(Info)	[14:38:25] but real info is: 
+(Info)	[14:38:25] @ pos: 397
+(Info)	[14:38:25] Desynced at position: 397, recv=»
+(Info)	[14:38:25]  but send=
+(Info)	[14:38:25] we decoded: 
+(Info)	[14:38:25] but real info is: 
+(Info)	[14:38:25] @ pos: 398
+(Info)	[14:38:25] Desynced at position: 398, recv=
+(Info)	[14:38:25]  but send=
+(Info)	[14:38:25] we decoded: É
+(Info)	[14:38:25] but real info is: 
+(Info)	[14:38:25] @ pos: 399
+(Info)	[14:38:25] Desynced at position: 399, recv=É
+(Info)	[14:38:25]  but send=
+(Info)	[14:38:25] we decoded: »
+(Info)	[14:38:25] but real info is: 
+(Info)	[14:38:25] @ pos: 400
+(Info)	[14:38:25] Desynced at position: 400, recv=»
+(Info)	[14:38:25]  but send=
+(Info)	[14:38:25] we decoded: 
+(Info)	[14:38:25] but real info is: 
+(Info)	[14:38:25] @ pos: 401
+(Info)	[14:38:25] Desynced at position: 401, recv=
+(Info)	[14:38:25]  but send=
+(Info)	[14:38:25] we decoded: É
+(Info)	[14:38:26] but real info is: 
+(Info)	[14:38:26] @ pos: 402
+(Info)	[14:38:26] Desynced at position: 402, recv=É
+(Info)	[14:38:26]  but send=
+(Info)	[14:38:26] we decoded: 
+(Info)	[14:38:26] but real info is: 
+(Info)	[14:38:26] @ pos: 403
+(Info)	[14:38:26] Desynced at position: 403, recv=
+(Info)	[14:38:26]  but send=
+(Info)	[14:38:26] we decoded: 
+(Info)	[14:38:26] but real info is: 
+(Info)	[14:38:26] @ pos: 404
+(Info)	[14:38:26] Desynced at position: 404, recv=
+(Info)	[14:38:26]  but send=
+(Info)	[14:38:26] we decoded: É
+(Info)	[14:38:26] but real info is: 
+(Info)	[14:38:26] @ pos: 405
+(Info)	[14:38:26] Desynced at position: 405, recv=É
+(Info)	[14:38:26]  but send=
+(Info)	[14:38:26] we decoded: 
+(Info)	[14:38:26] but real info is: 
+(Info)	[14:38:26] @ pos: 406
+(Info)	[14:38:26] Desynced at position: 406, recv=
+(Info)	[14:38:26]  but send=
+(Info)	[14:38:26] we decoded: ‘
+(Info)	[14:38:26] but real info is: 
+(Info)	[14:38:26] @ pos: 407
+(Info)	[14:38:26] Desynced at position: 407, recv=‘
+(Info)	[14:38:27]  but send=
+(Info)	[14:38:27] we decoded: É
+(Info)	[14:38:27] but real info is: 
+(Info)	[14:38:27] @ pos: 408
+(Info)	[14:38:27] Desynced at position: 408, recv=É
+(Info)	[14:38:27]  but send=
+(Info)	[14:38:27] we decoded: 
+(Info)	[14:38:27] but real info is: 
+(Info)	[14:38:27] @ pos: 409
+(Info)	[14:38:27] Desynced at position: 409, recv=
+(Info)	[14:38:27]  but send=
+(Info)	[14:38:27] we decoded: ‘
+(Info)	[14:38:27] but real info is: 
+(Info)	[14:38:27] @ pos: 410
+(Info)	[14:38:27] Desynced at position: 410, recv=‘
+(Info)	[14:38:27]  but send=
+(Info)	[14:38:27] we decoded: «
+(Info)	[14:38:27] but real info is: 
+(Info)	[14:38:27] @ pos: 411
+(Info)	[14:38:27] Desynced at position: 411, recv=«
+(Info)	[14:38:27]  but send=
+(Info)	[14:38:27] we decoded: 
+(Info)	[14:38:27] but real info is: 
+(Info)	[14:38:27] @ pos: 412
+(Info)	[14:38:27] Desynced at position: 412, recv=
+(Info)	[14:38:28]  but send=
+(Info)	[14:38:28] we decoded: ‘
+(Info)	[14:38:28] but real info is: 
+(Info)	[14:38:28] @ pos: 413
+(Info)	[14:38:28] Desynced at position: 413, recv=‘
+(Info)	[14:38:28]  but send=
+(Info)	[14:38:28] we decoded: «
+(Info)	[14:38:28] but real info is: 
+(Info)	[14:38:28] @ pos: 414
+(Info)	[14:38:28] Desynced at position: 414, recv=«
+(Info)	[14:38:28]  but send=
+(Info)	[14:38:28] we decoded: ò
+(Info)	[14:38:28] but real info is: 
+(Info)	[14:38:28] @ pos: 415
+(Info)	[14:38:28] Desynced at position: 415, recv=ò
+(Info)	[14:38:28]  but send=
+(Info)	[14:38:28] we decoded: ‘
+(Info)	[14:38:28] but real info is: 
+(Info)	[14:38:28] @ pos: 416
+(Info)	[14:38:28] Desynced at position: 416, recv=‘
+(Info)	[14:38:28]  but send=
+(Info)	[14:38:28] we decoded: «
+(Info)	[14:38:28] but real info is: 
+(Info)	[14:38:29] @ pos: 417
+(Info)	[14:38:29] Desynced at position: 417, recv=«
+(Info)	[14:38:29]  but send=
+(Info)	[14:38:29] we decoded: ò
+(Info)	[14:38:29] but real info is: 
+(Info)	[14:38:29] @ pos: 418
+(Info)	[14:38:29] Desynced at position: 418, recv=ò
+(Info)	[14:38:29]  but send=
+(Info)	[14:38:29] we decoded: Ø
+(Info)	[14:38:29] but real info is: 
+(Info)	[14:38:29] @ pos: 419
+(Info)	[14:38:29] Desynced at position: 419, recv=Ø
+(Info)	[14:38:29]  but send=
+(Info)	[14:38:29] we decoded: «
+(Info)	[14:38:29] but real info is: 
+(Info)	[14:38:29] @ pos: 420
+(Info)	[14:38:29] Desynced at position: 420, recv=«
+(Info)	[14:38:29]  but send=
+(Info)	[14:38:29] we decoded: ò
+(Info)	[14:38:29] but real info is: 
+(Info)	[14:38:29] @ pos: 421
+(Info)	[14:38:29] Desynced at position: 421, recv=ò
+(Info)	[14:38:29]  but send=
+(Info)	[14:38:29] we decoded: Ø
+(Info)	[14:38:29] but real info is: 
+(Info)	[14:38:29] @ pos: 422
+(Info)	[14:38:30] Desynced at position: 422, recv=Ø
+(Info)	[14:38:30]  but send=
+(Info)	[14:38:30] we decoded: c
+(Info)	[14:38:30] but real info is: 
+(Info)	[14:38:30] @ pos: 423
+(Info)	[14:38:30] Desynced at position: 423, recv=c
+(Info)	[14:38:30]  but send=
+(Info)	[14:38:30] we decoded: ò
+(Info)	[14:38:30] but real info is: 
+(Info)	[14:38:30] @ pos: 424
+(Info)	[14:38:30] Desynced at position: 424, recv=ò
+(Info)	[14:38:30]  but send=
+(Info)	[14:38:30] we decoded: Ø
+(Info)	[14:38:30] but real info is: 
+(Info)	[14:38:30] @ pos: 425
+(Info)	[14:38:30] Desynced at position: 425, recv=Ø
+(Info)	[14:38:30]  but send=
+(Info)	[14:38:30] we decoded: c
+(Info)	[14:38:30] but real info is: 
+(Info)	[14:38:30] @ pos: 426
+(Info)	[14:38:30] Desynced at position: 426, recv=c
+(Info)	[14:38:30]  but send=
+(Info)	[14:38:30] we decoded: [
+(Info)	[14:38:30] but real info is: 
+(Info)	[14:38:30] @ pos: 427
+(Info)	[14:38:31] Desynced at position: 427, recv=[
+(Info)	[14:38:31]  but send=
+(Info)	[14:38:31] we decoded: Ø
+(Info)	[14:38:31] but real info is: 
+(Info)	[14:38:31] @ pos: 428
+(Info)	[14:38:31] Desynced at position: 428, recv=Ø
+(Info)	[14:38:31]  but send=
+(Info)	[14:38:31] we decoded: c
+(Info)	[14:38:31] but real info is: 
+(Info)	[14:38:31] @ pos: 429
+(Info)	[14:38:31] Desynced at position: 429, recv=c
+(Info)	[14:38:31]  but send=
+(Info)	[14:38:31] we decoded: [
+(Info)	[14:38:31] but real info is: 
+(Info)	[14:38:31] @ pos: 430
+(Info)	[14:38:31] Desynced at position: 430, recv=[
+(Info)	[14:38:31]  but send=
+(Info)	[14:38:31] we decoded: —
+(Info)	[14:38:31] but real info is: 
+(Info)	[14:38:31] @ pos: 431
+(Info)	[14:38:31] Desynced at position: 431, recv=—
+(Info)	[14:38:31]  but send=
+(Info)	[14:38:31] we decoded: c
+(Info)	[14:38:31] but real info is: 
+(Info)	[14:38:32] @ pos: 432
+(Info)	[14:38:32] Desynced at position: 432, recv=c
+(Info)	[14:38:32]  but send=
+(Info)	[14:38:32] we decoded: [
+(Info)	[14:38:32] but real info is: 
+(Info)	[14:38:32] @ pos: 433
+(Info)	[14:38:32] Desynced at position: 433, recv=[
+(Info)	[14:38:32]  but send=
+(Info)	[14:38:32] we decoded: —
+(Info)	[14:38:32] but real info is: 
+(Info)	[14:38:32] @ pos: 434
+(Info)	[14:38:32] Desynced at position: 434, recv=—
+(Info)	[14:38:32]  but send=
+(Info)	[14:38:32] we decoded: Á
+(Info)	[14:38:32] but real info is: 
+(Info)	[14:38:32] @ pos: 435
+(Info)	[14:38:32] Desynced at position: 435, recv=Á
+(Info)	[14:38:32]  but send=
+(Info)	[14:38:32] we decoded: [
+(Info)	[14:38:32] but real info is: 
+(Info)	[14:38:32] @ pos: 436
+(Info)	[14:38:32] Desynced at position: 436, recv=[
+(Info)	[14:38:32]  but send=
+(Info)	[14:38:32] we decoded: —
+(Info)	[14:38:33] but real info is: 
+(Info)	[14:38:33] @ pos: 437
+(Info)	[14:38:33] Desynced at position: 437, recv=—
+(Info)	[14:38:33]  but send=
+(Info)	[14:38:33] we decoded: Á
+(Info)	[14:38:33] but real info is: 
+(Info)	[14:38:33] @ pos: 438
+(Info)	[14:38:33] Desynced at position: 438, recv=Á
+(Info)	[14:38:33]  but send=
+(Info)	[14:38:33] we decoded: À
+(Info)	[14:38:33] but real info is: ?
+(Info)	[14:38:33] @ pos: 439
+(Info)	[14:38:33] Desynced at position: 439, recv=À
+(Info)	[14:38:33]  but send=?
+(Info)	[14:38:33] we decoded: —
+(Info)	[14:38:33] but real info is: ÷
+(Info)	[14:38:33] @ pos: 440
+(Info)	[14:38:33] Desynced at position: 440, recv=—
+(Info)	[14:38:33]  but send=÷
+(Info)	[14:38:34] we decoded: Á
+(Info)	[14:38:34] but real info is:  
+(Info)	[14:38:34] @ pos: 441
+(Info)	[14:38:34] Desynced at position: 441, recv=Á
+(Info)	[14:38:34]  but send= 
+(Info)	[14:38:34] we decoded: À
+(Info)	[14:38:34] but real info is: Ÿ
+(Info)	[14:38:34] @ pos: 442
+(Info)	[14:38:34] Desynced at position: 442, recv=À
+(Info)	[14:38:34]  but send=Ÿ
+(Info)	[14:38:34] we decoded: ì
+(Info)	[14:38:34] but real info is: ê
+(Info)	[14:38:34] @ pos: 443
+(Info)	[14:38:34] Desynced at position: 443, recv=ì
+(Info)	[14:38:34]  but send=ê
+(Info)	[14:38:34] we decoded: Á
+(Info)	[14:38:34] but real info is: e
+(Info)	[14:38:34] @ pos: 444
+(Info)	[14:38:34] Desynced at position: 444, recv=Á
+(Info)	[14:38:34]  but send=e
+(Info)	[14:38:34] we decoded: À
+(Info)	[14:38:34] but real info is: ©
+(Info)	[14:38:34] @ pos: 445
+(Info)	[14:38:34] Desynced at position: 445, recv=À
+(Info)	[14:38:34]  but send=©
+(Info)	[14:38:35] we decoded: ì
+(Info)	[14:38:35] but real info is: 
+(Info)	[14:38:35] @ pos: 446
+(Info)	[14:38:35] Desynced at position: 446, recv=ì
+(Info)	[14:38:35]  but send=
+(Info)	[14:38:35] we decoded: :
+(Info)	[14:38:35] but real info is: 
+(Info)	[14:38:35] @ pos: 447
+(Info)	[14:38:35] Desynced at position: 447, recv=:
+(Info)	[14:38:35]  but send=
+(Info)	[14:38:35] too much info:: 447 > 446
+(Info)	[14:38:35] error code: -3
+(Info)	[14:38:35] 1
+(Info)	[14:38:35] 
+(Warning)	[14:38:36] Starting ROM: Super Smash Bros. (U) [!] 
+(Info)	[14:38:36] Creating emulation thread...
+(Info)	[14:38:36] Emu thread: Start
+(Info)	[14:38:36] Init memory....
+(Info)	[14:38:36] Loading plugins....
+(Info)	[14:38:36] Loading gfx -  Jabo's Direct3D8 1.6
+(Info)	[14:38:36] Loading input -  N-Rage`s Direct-Input8 1.60
+(Info)	[14:38:36] Loading sound - Jabo's DirectSound 1.6
+(Info)	[14:38:36] Loading RSP - Hacktarux/Azimer hle rsp plugin
+(Info)	[14:38:36] Rom open gfx....
+(Info)	[14:38:36] Rom open input....
+(Info)	[14:38:36] Rom open audio....
+(Info)	[14:38:36] Core = Dynamic Recompiler
+(Info)	[14:38:36] Emu thread: Creating sound thread...
+(Info)	[14:38:36] Emu thread: Emulation started....

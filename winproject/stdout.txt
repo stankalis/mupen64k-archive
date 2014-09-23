@@ -1,0 +1,23 @@
+file found
+rom size: 16777216 bytes (or 16 Mb or 128 Megabits)
+rom loaded succesfully
+80 37 12 40
+ClockRate=f
+Version:1449
+CRC: 916b8b5b 780b85a4
+name: SMASH BROTHERS      
+Manufacturer: Nintendo
+Cartridge_ID: 4c41
+Country : United States
+size: 4096
+PC= 80100400
+md5 code:F7C52568A31AADF26E14DC2B6416B2ED
+0
+SMASH BROTHERS       (unknown rom)
+memory initialized
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
